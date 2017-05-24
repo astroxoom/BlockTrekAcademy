@@ -1,3 +1,8 @@
 .Optimize
 .logs
 .mstore
+LICENSE.md
+banned-ips.json
+banned-players.json
+whitelist.json
+ops.json
