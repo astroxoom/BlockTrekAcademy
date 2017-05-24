@@ -1,0 +1,5 @@
+# KeepChunks v1.3.4. Copyright © 2017 DynamicThijs. All rights reserved.
+# Info & Support: https://www.spigotmc.org/resources/23307/
+dynamicload: true
+debug: false
+chunks: []

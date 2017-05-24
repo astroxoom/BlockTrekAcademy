@@ -1,0 +1,2068 @@
+22/05/2017 15:08:20 [INFO] Loading language file: lang_en
+22/05/2017 15:08:20 [INFO] Creating new file 'plugins\FeatherBoard\data\plugindata.dat'!
+22/05/2017 15:08:20 [SEVERE] Error while loading plugins\FeatherBoard\lang\lang_en.yml!
+22/05/2017 15:08:20 [INFO] Creating new file 'plugins\FeatherBoard\lang\lang_en.yml'!
+22/05/2017 15:08:20 [INFO] Loading messages ...
+22/05/2017 15:08:20 [DEBUG] Using PlaceholderLoader 20170126
+22/05/2017 15:08:20 [DEBUG] Checking conditions for placeholder: bukkit
+22/05/2017 15:08:20 [INFO] Loading placeholders ...
+22/05/2017 15:08:20 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_bukkit.yml'!
+22/05/2017 15:08:20 [DEBUG] Using SCOREBOARD v5
+22/05/2017 15:08:20 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_bukkit.yml' ...
+22/05/2017 15:08:20 [DEBUG] Enabled and valid placeholder group: bukkit
+22/05/2017 15:08:20 [DEBUG] Checking conditions for placeholder: economy
+22/05/2017 15:08:20 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_economy.yml' ...
+22/05/2017 15:08:20 [DEBUG] Enabled and valid placeholder group: economy
+22/05/2017 15:08:20 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_permissions.yml'!
+22/05/2017 15:08:20 [DEBUG] Enabled and valid placeholder group: permissions
+22/05/2017 15:08:20 [DEBUG] Checking conditions for placeholder: player
+22/05/2017 15:08:20 [DEBUG] Enabled and valid placeholder group: player
+22/05/2017 15:08:21 [DEBUG] Checking conditions for placeholder: statistics
+22/05/2017 15:08:21 [DEBUG] Enabled and valid placeholder group: statistics
+22/05/2017 15:08:21 [DEBUG] Checking conditions for placeholder: previousnames
+22/05/2017 15:08:20 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_economy.yml'!
+22/05/2017 15:08:21 [DEBUG] Enabled and valid placeholder group: previousnames
+22/05/2017 15:08:21 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_bungeecord.yml'!
+22/05/2017 15:08:21 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_bungeecord.yml' ...
+22/05/2017 15:08:21 [DEBUG] Checking conditions for placeholder: redisbungee
+22/05/2017 15:08:21 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_redisbungee.yml'!
+22/05/2017 15:08:21 [DEBUG] Enabled and valid placeholder group: pinger
+22/05/2017 15:08:21 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_pinger.yml' ...
+22/05/2017 15:08:21 [DEBUG] Enabled and valid placeholder group: geographic
+22/05/2017 15:09:09 [INFO] ./plugins/MVdWPlugin/db/GeoLiteCity.dat updated
+22/05/2017 15:09:15 [INFO] Updater disabled.
+22/05/2017 15:09:15 [DEBUG] Checking conditions for placeholder: tps
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: factions1.8
+22/05/2017 15:09:16 [DEBUG] 	Condition met: [VERSION - factions2] 2.
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - voteroulette] VoteRoulette
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - playerpoints] PlayerPoints
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - simpleclans] SimpleClans
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - libsdisguises] LibsDisguises
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - ultimatevotes] UltimateVotes
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: ezrankslite
+22/05/2017 15:09:16 [DEBUG] Enabled and valid placeholder group: custom
+22/05/2017 15:09:16 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_worldguard.yml'!
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_hotbar.yml' ...
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: KoTH
+22/05/2017 15:09:21 [INFO] Adding scoreboard group 'towny-town-example' ...
+22/05/2017 15:09:21 [INFO] Adding command 'featherboard'
+22/05/2017 15:09:21 [INFO] Toggle persistence is disabled!
+22/05/2017 15:08:20 [DEBUG] 	Condition met: [PLUGIN - economy] Vault
+22/05/2017 15:08:20 [DEBUG] Checking conditions for placeholder: permissions
+22/05/2017 15:08:20 [DEBUG] 	Condition met: [PLUGIN - permissions] Vault
+22/05/2017 15:08:20 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_permissions.yml' ...
+22/05/2017 15:08:20 [INFO] Copying 'plugins\FeatherBoard\placeholders\placeholder_player.yml' from the resources!
+22/05/2017 15:08:21 [INFO] Copying 'plugins\FeatherBoard\placeholders\placeholder_statistics.yml' from the resources!
+22/05/2017 15:08:21 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_previousnames.yml'!
+22/05/2017 15:08:21 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_previousnames.yml' ...
+22/05/2017 15:08:21 [DEBUG] Checking conditions for placeholder: bungeecord
+22/05/2017 15:08:21 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_redisbungee.yml' ...
+22/05/2017 15:08:21 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_pinger.yml'!
+22/05/2017 15:08:21 [DEBUG] Enabled and valid placeholder group: redisbungee
+22/05/2017 15:08:21 [DEBUG] Enabled and valid placeholder group: bungeecord
+22/05/2017 15:08:21 [DEBUG] Checking conditions for placeholder: pinger
+22/05/2017 15:08:21 [DEBUG] Checking conditions for placeholder: geographic
+22/05/2017 15:08:21 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_geographic.yml'!
+22/05/2017 15:08:21 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_geographic.yml' ...
+22/05/2017 15:08:21 [INFO] Downloading City database ...
+22/05/2017 15:09:09 [INFO] Downloading Country database ...
+22/05/2017 15:09:12 [INFO] Downloading IPV6 database ...
+22/05/2017 15:09:12 [INFO] ./plugins/MVdWPlugin/db/GeoIP.dat updated
+22/05/2017 15:08:21 [INFO] Creating new file 'plugins\MVdWPlugin\lib\geosettings.yml'!
+22/05/2017 15:08:21 [SEVERE] Error while loading plugins\MVdWPlugin\lib\geosettings.yml!
+22/05/2017 15:09:15 [INFO] ./plugins/MVdWPlugin/db/GeoIPv6.dat updated
+22/05/2017 15:09:15 [DEBUG] Checking conditions for placeholder: compass
+22/05/2017 15:09:15 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_compass.yml'!
+22/05/2017 15:09:15 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_compass.yml' ...
+22/05/2017 15:09:15 [DEBUG] Enabled and valid placeholder group: compass
+22/05/2017 15:09:15 [DEBUG] Checking conditions for placeholder: memory
+22/05/2017 15:09:15 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_memory.yml'!
+22/05/2017 15:09:15 [DEBUG] Enabled and valid placeholder group: memory
+22/05/2017 15:09:15 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_tps.yml' ...
+22/05/2017 15:09:15 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_tps.yml'!
+22/05/2017 15:09:15 [DEBUG] Enabled and valid placeholder group: tps
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: towny
+22/05/2017 15:09:15 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_memory.yml' ...
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - towny] Towny
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: factions1.6
+22/05/2017 15:09:16 [DEBUG] 	Condition met: [PLUGIN - factions1.6] Factions
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [VERSION - factions1.6] 1.6
+22/05/2017 15:09:16 [DEBUG] 	Condition met: [PLUGIN - factions1.8] Factions
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [VERSION - factions1.8] 1.8
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: factions2
+22/05/2017 15:09:16 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_factions2.yml'!
+22/05/2017 15:09:16 [DEBUG] 	Condition met: [PLUGIN - factions2] Factions
+22/05/2017 15:09:16 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_factions2.yml' ...
+22/05/2017 15:09:16 [DEBUG] Enabled and valid placeholder group: factions2
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: voteroulette
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: zarphyckskywars
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - zarphyckskywars] SkyWars
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: multiverse
+22/05/2017 15:09:16 [DEBUG] 	Condition met: [PLUGIN - multiverse] Multiverse-Core
+22/05/2017 15:09:16 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_multiverse.yml' ...
+22/05/2017 15:09:16 [DEBUG] Enabled and valid placeholder group: multiverse
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: voteparty
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: playerpoints
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - voteparty] VoteParty
+22/05/2017 15:09:16 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_multiverse.yml'!
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: lwc
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - lwc] LWC
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: simpleclans
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: mcmmo
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - mcmmo] mcMMO
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: libsdisguises
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - ezblocks] EZBlocks
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: ultimatevotes
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: ezprestige
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - legendquest] LegendQuest
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: ezblocks
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - ezprestige] EZPrestige
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: ezrankspro
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite] EZRanksLite
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: ezrankslite2
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: legendquest
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - ezrankspro] EZRanksPro
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite2] EZRanksLite
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: armor
+22/05/2017 15:09:16 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_armor.yml'!
+22/05/2017 15:09:16 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_armor.yml' ...
+22/05/2017 15:09:16 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_custom.yml'!
+22/05/2017 15:09:16 [DEBUG] Enabled and valid placeholder group: armor
+22/05/2017 15:09:16 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_custom.yml' ...
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: custom
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - essentials] Essentials
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: essentials
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: griefprevention
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - griefprevention] GriefPrevention
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: minecrates
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - minecrates] MineCrates
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: pl3xicons
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - pl3xicons] Pl3xIcons
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: magic
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - magic] Magic
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: worldborder
+22/05/2017 15:09:16 [DEBUG] 	Condition met: [PLUGIN - worldborder] WorldBorder
+22/05/2017 15:09:16 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_worldborder.yml'!
+22/05/2017 15:09:16 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_worldborder.yml' ...
+22/05/2017 15:09:16 [DEBUG] Enabled and valid placeholder group: worldborder
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: worldguard
+22/05/2017 15:09:16 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_worldguard.yml' ...
+22/05/2017 15:09:16 [DEBUG] 	Condition met: [PLUGIN - worldguard] WorldGuard
+22/05/2017 15:09:16 [DEBUG] Enabled and valid placeholder group: worldguard
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: donationsholograms
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - donationsholograms] DonationsHolograms
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: autosell
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - autosell] AutoSell
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: heroes
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - heroes] Heroes
+22/05/2017 15:09:16 [DEBUG] Checking conditions for placeholder: battlelevels
+22/05/2017 15:09:16 [DEBUG] 	Condition not met: [PLUGIN - battlelevels] BattleLevels
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: leaderheads
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - leaderheads] LeaderHeads
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - skillapi] SkillAPI
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: killstats
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: galistener
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - killstats] killStats
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - galistener] GAListener
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: askyblock
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - askyblock] ASkyBlock
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: autorank
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - autorank] Autorank
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: enjin
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - enjin] EnjinMinecraftPlugin
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: marriage
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - marriage] Marriage
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: plotme
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: skillapi
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - plotme] PlotMe
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: tokenchant
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - tokenchant] TokenEnchant
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: jobs
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - jobs] Jobs
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: jobsreborn
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - jobsreborn] Jobs
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - bukkitspeak] BukkitSpeak
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: bukkitspeak
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: plotz
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - plotz] Plotz
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: teams
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: unicode
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - teams] Teams
+22/05/2017 15:09:17 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_unicode.yml'!
+22/05/2017 15:09:17 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_unicode.yml' ...
+22/05/2017 15:09:17 [DEBUG] Enabled and valid placeholder group: unicode
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: wickedskywars
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: uskyblock
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - wickedskywars] WickedSkyWars
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - uskyblock] uSkyBlock
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - sqlperms] SQLPerms
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: plotsquared
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: diceeaster
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - plotsquared] PlotSquared
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - diceeaster] DiceEaster
+22/05/2017 15:09:17 [DEBUG] 	Condition not met: [PLUGIN - enchantmenttokens] EnchantmentTokens
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: twitter
+22/05/2017 15:09:17 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_twitter.yml'!
+22/05/2017 15:09:17 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_twitter.yml' ...
+22/05/2017 15:09:17 [DEBUG] Enabled and valid placeholder group: twitter
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: facebook
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: sqlperms
+22/05/2017 15:09:17 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_facebook.yml'!
+22/05/2017 15:09:17 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_facebook.yml' ...
+22/05/2017 15:09:17 [DEBUG] Checking conditions for placeholder: enchantmenttokens
+22/05/2017 15:09:17 [DEBUG] Enabled and valid placeholder group: facebook
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - skywarsreloaded] SkyWarsReloaded
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: chatreaction
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - chatreaction] ChatReaction
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: gangsplus1
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - gangsplus1] GangsPlus
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: gangsplus2
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: skywarsreloaded
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - gangsplus2] GangsPlus
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: deluxetags
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: quests
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - deluxetags] DeluxeTags
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - quests] Quests
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: killrewards
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - killrewards] KillRewards
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: playereffects
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_playereffects.yml'!
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_playereffects.yml' ...
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: playereffects
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - survivalgameswazup] SurvivalGames
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: hotbar
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: survivalgameswazup
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_hotbar.yml'!
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: subsidekoth
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - subsidekoth] KoTH
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: hotbar
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: kingkits
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - kingkits] KingKits
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - thirst] Thirst
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: thirst
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: disease
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: pvptimer
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - disease] Disease
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - pvptimer] PvPTimer
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: world
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_world.yml'!
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_world.yml' ...
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: world
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: entities
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_entities.yml'!
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_entities.yml' ...
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: entities
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: killermoney
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - killermoney] KillerMoney
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: nicky
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - nicky] Nicky
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - acidisland] AcidIsland
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: acidisland
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: bukkitgames
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: auctions
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - bukkitgames] BukkitGames
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - auctions] Auctions
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - playtimerewards] PlayTimeRewardsRecoded
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - rankupscrayos] RankUp
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: rankupscrayos
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: playtimerewards
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: islandworld
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - islandworld] IslandWorld
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - ontime] OnTime
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: ontime
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: marriagemaster
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - marriagemaster] MarriageMaster
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: prison3
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: prisonmines
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - prisonmines] PrisonMines
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: mineresetlite
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - prison3] Prison3
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - mineresetlite] MineResetLite
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: mvdwplaceholderapi
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_mvdwplaceholderapi.yml'!
+22/05/2017 15:09:18 [DEBUG] 	Condition met: [PLUGIN - mvdwplaceholderapi] MVdWPlaceholderAPI
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_mvdwplaceholderapi.yml' ...
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: PlaceholderAPI
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: mvdwplaceholderapi
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - PlaceholderAPI] PlaceholderAPI
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - mobarena] MobArena
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: mobarena
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: bedwarsreloaded
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: java
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - bedwarsreloaded] BedwarsRel
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_java.yml' ...
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: java
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: stockmarket-yahoofinance
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_java.yml'!
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - stockmarket-yahoofinance] StockMarket
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: sellall
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: customlist
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - sellall] SellAll
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: townychat
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - customlist] CustomList
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - townychat] TownyChat
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: minefortress
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - minefortress] MineFortress
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: vanilla-combat
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_vanilla-combat.yml'!
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_vanilla-combat.yml' ...
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: kitbattle
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: vanilla-combat
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: color
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - kitbattle] KitBattle
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_color.yml'!
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_color.yml' ...
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: color
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - skript] Skript
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: skript
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - stockmarket] StockMarket
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: superbvote
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: stockmarket
+22/05/2017 15:09:18 [DEBUG] 	Condition not met: [PLUGIN - superbvote] SuperbVote
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: mysql
+22/05/2017 15:09:18 [INFO] Copying 'plugins\FeatherBoard\placeholders\placeholder_mysql.yml' from the resources!
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: command
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_command.yml'!
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: mysql
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_command.yml' ...
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: command
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: firework
+22/05/2017 15:09:18 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_firework.yml'!
+22/05/2017 15:09:18 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_firework.yml' ...
+22/05/2017 15:09:18 [DEBUG] Enabled and valid placeholder group: firework
+22/05/2017 15:09:18 [DEBUG] Checking conditions for placeholder: sound
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\placeholders\placeholder_sound.yml'!
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\placeholders\placeholder_sound.yml' ...
+22/05/2017 15:09:19 [DEBUG] Enabled and valid placeholder group: sound
+22/05/2017 15:09:19 [INFO] Loaded 2245 of the 4981 placholders
+22/05/2017 15:09:19 [INFO] Loading Event hooks ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: BukkitGames
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] BukkitGames
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: mcMMO Level down event
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: mcMMO Level up event
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: ChatReaction start event
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] ChatReaction
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: MobArena
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] MobArena
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] KoTH
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Vanilla Death hook
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\events\event_vanilla-death.yml' ...
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\events\event_vanilla-death.yml'!
+22/05/2017 15:09:19 [INFO] Loading event hook: Vanilla Death hook ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Vanilla Block break hook
+22/05/2017 15:09:19 [INFO] Loading event hook: Vanilla Block break hook ...
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\events\event_vanilla-blockbreak.yml'!
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\events\event_vanilla-blockbreak.yml' ...
+22/05/2017 15:09:19 [INFO] Loading event hook: Vanilla Block place hook ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Vanilla Block place hook
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\events\event_vanilla-blockplace.yml' ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Vanilla Create portal hook
+22/05/2017 15:09:19 [INFO] Loading event hook: Vanilla Create portal hook ...
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\events\event_vanilla-blockplace.yml'!
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\events\event_vanilla-createportal.yml'!
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\events\event_vanilla-createportal.yml' ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: SellAll
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] SellAll
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] BedwarsRel
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: BedwarsRel
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: mcMMO Party Level up
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Vanilla player join
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Towny Town
+22/05/2017 15:09:19 [INFO] Loading event hook: Vanilla player join ...
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] Towny
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\events\event_vanilla-join.yml'!
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\events\event_vanilla-join.yml' ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Vanilla player rejoin
+22/05/2017 15:09:19 [INFO] Loading event hook: Vanilla player rejoin ...
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\events\event_vanilla-rejoin.yml'!
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\events\event_vanilla-rejoin.yml' ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Vanilla player first join
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\events\event_vanilla-firstjoin.yml'!
+22/05/2017 15:09:19 [INFO] Loading event hook: Vanilla player first join ...
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\events\event_vanilla-firstjoin.yml' ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Auctions
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] Auctions
+22/05/2017 15:09:19 [INFO] Loading event hook: Vanilla Combat hook ...
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: Vanilla Combat hook
+22/05/2017 15:09:19 [INFO] Using template for file 'plugins\FeatherBoard\events\event_vanilla-combat.yml' ...
+22/05/2017 15:09:19 [INFO] Creating new file 'plugins\FeatherBoard\events\event_vanilla-combat.yml'!
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: EZRanksUp Rankup event
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] EZRanksPro
+22/05/2017 15:09:19 [DEBUG] Checking conditions for event: BattleLevels Level up event
+22/05/2017 15:09:19 [DEBUG] 	Condition not met: [PLUGIN] BattleLevels
+22/05/2017 15:09:20 [INFO] Copying 'plugins\FeatherBoard\effects\customeffects.yml' from the resources!
+22/05/2017 15:09:20 [INFO] Creating new custom effect: warning
+22/05/2017 15:09:20 [INFO] 	Lines: 2
+22/05/2017 15:09:20 [INFO] 	Arguments: 1
+22/05/2017 15:09:20 [INFO] Adding scoreboard group 'default' ...
+22/05/2017 15:09:20 [INFO] Adding scoreboard group 'combat-scoreboard-example' ...
+22/05/2017 15:09:21 [INFO] Adding scoreboard group 'mcmmo-levelup' ...
+22/05/2017 15:09:21 [MESSAGE] &cMissing message for: &oprefix&aYour version is up to date!
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'on'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'toggle'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'gui'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'off'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'placeholders'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'uploadlog'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'permissions'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'uploadconfig'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'about'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'resetconfig'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'help'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'changelog'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'debug'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'status'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'generatebbcode'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'parse'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'show'
+22/05/2017 15:09:21 [DEBUG] 	Adding sub command 'hide'
+22/05/2017 15:10:48 [DEBUG] Using SCOREBOARD v5
+22/05/2017 15:10:48 [DEBUG] Using PlaceholderLoader 20170126
+22/05/2017 15:10:48 [INFO] Loading language file: lang_en
+22/05/2017 15:10:48 [INFO] Loading messages ...
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: bukkit
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: bukkit
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: economy
+22/05/2017 15:10:48 [DEBUG] 	Condition met: [PLUGIN - economy] Vault
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: economy
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: permissions
+22/05/2017 15:10:48 [DEBUG] 	Condition met: [PLUGIN - permissions] Vault
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: permissions
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: player
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: player
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: statistics
+22/05/2017 15:10:48 [INFO] Loading placeholders ...
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: previousnames
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: previousnames
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - voteroulette] VoteRoulette
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: zarphyckskywars
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: bungeecord
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: bungeecord
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: redisbungee
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: voteparty
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: redisbungee
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: simpleclans
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: pinger
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: pinger
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: statistics
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: geographic
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: geographic
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: compass
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: compass
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: memory
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: memory
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: tps
+22/05/2017 15:10:48 [DEBUG] Enabled and valid placeholder group: tps
+22/05/2017 15:10:48 [DEBUG] Checking conditions for placeholder: towny
+22/05/2017 15:10:48 [DEBUG] 	Condition not met: [PLUGIN - towny] Towny
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: factions1.6
+22/05/2017 15:10:49 [DEBUG] 	Condition met: [PLUGIN - factions1.6] Factions
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: factions1.8
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [VERSION - factions1.6] 1.6
+22/05/2017 15:10:49 [DEBUG] 	Condition met: [PLUGIN - factions1.8] Factions
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [VERSION - factions1.8] 1.8
+22/05/2017 15:10:49 [DEBUG] 	Condition met: [PLUGIN - factions2] Factions
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: factions2
+22/05/2017 15:10:49 [DEBUG] 	Condition met: [VERSION - factions2] 2.
+22/05/2017 15:10:49 [DEBUG] Enabled and valid placeholder group: factions2
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: voteroulette
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - zarphyckskywars] SkyWars
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: multiverse
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: playerpoints
+22/05/2017 15:10:49 [DEBUG] 	Condition met: [PLUGIN - multiverse] Multiverse-Core
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - voteparty] VoteParty
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - playerpoints] PlayerPoints
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: lwc
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - lwc] LWC
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - mcmmo] mcMMO
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: mcmmo
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: libsdisguises
+22/05/2017 15:10:49 [DEBUG] Enabled and valid placeholder group: multiverse
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - simpleclans] SimpleClans
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: legendquest
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: ultimatevotes
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - ultimatevotes] UltimateVotes
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - legendquest] LegendQuest
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - ezblocks] EZBlocks
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: ezprestige
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - libsdisguises] LibsDisguises
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: ezblocks
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: ezrankspro
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite] EZRanksLite
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: ezrankslite
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: pl3xicons
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - pl3xicons] Pl3xIcons
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - magic] Magic
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: magic
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: worldborder
+22/05/2017 15:10:50 [DEBUG] Enabled and valid placeholder group: worldborder
+22/05/2017 15:10:50 [DEBUG] 	Condition met: [PLUGIN - worldborder] WorldBorder
+22/05/2017 15:10:50 [DEBUG] 	Condition met: [PLUGIN - worldguard] WorldGuard
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: worldguard
+22/05/2017 15:10:50 [DEBUG] Enabled and valid placeholder group: worldguard
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: donationsholograms
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - donationsholograms] DonationsHolograms
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: autosell
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - autosell] AutoSell
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - heroes] Heroes
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: battlelevels
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: heroes
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - battlelevels] BattleLevels
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: leaderheads
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - ezprestige] EZPrestige
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - leaderheads] LeaderHeads
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: skillapi
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - skillapi] SkillAPI
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - killstats] killStats
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: galistener
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: killstats
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - galistener] GAListener
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: askyblock
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - askyblock] ASkyBlock
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: autorank
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - autorank] Autorank
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: enjin
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - enjin] EnjinMinecraftPlugin
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: marriage
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - marriage] Marriage
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: plotme
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - plotme] PlotMe
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: tokenchant
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - tokenchant] TokenEnchant
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: jobs
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: jobsreborn
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - jobsreborn] Jobs
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - jobs] Jobs
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: bukkitspeak
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: ezrankslite2
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite2] EZRanksLite
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: custom
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: armor
+22/05/2017 15:10:49 [DEBUG] Enabled and valid placeholder group: armor
+22/05/2017 15:10:49 [DEBUG] Enabled and valid placeholder group: custom
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: plotz
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - bukkitspeak] BukkitSpeak
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: essentials
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - plotz] Plotz
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: teams
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - teams] Teams
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: unicode
+22/05/2017 15:10:50 [DEBUG] Enabled and valid placeholder group: unicode
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: wickedskywars
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - wickedskywars] WickedSkyWars
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: uskyblock
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - uskyblock] uSkyBlock
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: sqlperms
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: plotsquared
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - sqlperms] SQLPerms
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - plotsquared] PlotSquared
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: diceeaster
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - diceeaster] DiceEaster
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: enchantmenttokens
+22/05/2017 15:10:50 [DEBUG] 	Condition not met: [PLUGIN - enchantmenttokens] EnchantmentTokens
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: twitter
+22/05/2017 15:10:50 [DEBUG] Enabled and valid placeholder group: twitter
+22/05/2017 15:10:50 [DEBUG] Checking conditions for placeholder: facebook
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - skywarsreloaded] SkyWarsReloaded
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: skywarsreloaded
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - chatreaction] ChatReaction
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - gangsplus1] GangsPlus
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: gangsplus1
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: gangsplus2
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - ezrankspro] EZRanksPro
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: deluxetags
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: griefprevention
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - griefprevention] GriefPrevention
+22/05/2017 15:10:49 [DEBUG] Checking conditions for placeholder: minecrates
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - minecrates] MineCrates
+22/05/2017 15:10:49 [DEBUG] 	Condition not met: [PLUGIN - essentials] Essentials
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - gangsplus2] GangsPlus
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: chatreaction
+22/05/2017 15:10:50 [DEBUG] Enabled and valid placeholder group: facebook
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: quests
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - quests] Quests
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - deluxetags] DeluxeTags
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - killrewards] KillRewards
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: killrewards
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: playereffects
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - survivalgameswazup] SurvivalGames
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: survivalgameswazup
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: playereffects
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: subsidekoth
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: kingkits
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - subsidekoth] KoTH
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: hotbar
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - kingkits] KingKits
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: hotbar
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: thirst
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - thirst] Thirst
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - disease] Disease
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: disease
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: pvptimer
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: entities
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: entities
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: killermoney
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - killermoney] KillerMoney
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: nicky
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - nicky] Nicky
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: acidisland
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - acidisland] AcidIsland
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: bukkitgames
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - bukkitgames] BukkitGames
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: auctions
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - auctions] Auctions
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: playtimerewards
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: rankupscrayos
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - playtimerewards] PlayTimeRewardsRecoded
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - rankupscrayos] RankUp
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: islandworld
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - islandworld] IslandWorld
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: ontime
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - ontime] OnTime
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: marriagemaster
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - marriagemaster] MarriageMaster
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: prison3
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - prison3] Prison3
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: prisonmines
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - prisonmines] PrisonMines
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: mineresetlite
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - mineresetlite] MineResetLite
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: mvdwplaceholderapi
+22/05/2017 15:10:51 [DEBUG] 	Condition met: [PLUGIN - mvdwplaceholderapi] MVdWPlaceholderAPI
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: PlaceholderAPI
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: mvdwplaceholderapi
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: world
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: mobarena
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - PlaceholderAPI] PlaceholderAPI
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: sellall
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - bedwarsreloaded] BedwarsRel
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - stockmarket-yahoofinance] StockMarket
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: stockmarket-yahoofinance
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: bedwarsreloaded
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - mobarena] MobArena
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - sellall] SellAll
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: java
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - kitbattle] KitBattle
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: color
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: kitbattle
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: java
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: mysql
+22/05/2017 15:10:52 [INFO] Loaded 2245 of the 4981 placholders
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] BukkitGames
+22/05/2017 15:10:52 [INFO] Loading Event hooks ...
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] KoTH
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: stockmarket
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - minefortress] MineFortress
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: vanilla-combat
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - townychat] TownyChat
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - superbvote] SuperbVote
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Vanilla Block break hook
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Vanilla Create portal hook
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: ChatReaction start event
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: mcMMO Level down event
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Vanilla Block place hook
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: mcMMO Party Level up
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: mcMMO Level up event
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - stockmarket] StockMarket
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: vanilla-combat
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: minefortress
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Vanilla Death hook
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - customlist] CustomList
+22/05/2017 15:10:52 [INFO] Loading event hook: Vanilla Create portal hook ...
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] ChatReaction
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] Towny
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: MobArena
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] MobArena
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: KoTH
+22/05/2017 15:10:52 [INFO] Loading event hook: Vanilla Death hook ...
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: mysql
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: SellAll
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] BedwarsRel
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: BedwarsRel
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: sound
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Towny Town
+22/05/2017 15:10:52 [DEBUG] Enabled and valid placeholder group: sound
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: BukkitGames
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: color
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: townychat
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: command
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: command
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: firework
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: firework
+22/05/2017 15:10:52 [INFO] Loading event hook: Vanilla Block place hook ...
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: skript
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - skript] Skript
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: superbvote
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] SellAll
+22/05/2017 15:10:51 [DEBUG] Checking conditions for placeholder: customlist
+22/05/2017 15:10:52 [INFO] Loading event hook: Vanilla Block break hook ...
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Vanilla player join
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Vanilla player rejoin
+22/05/2017 15:10:52 [INFO] Loading event hook: Vanilla player rejoin ...
+22/05/2017 15:10:52 [INFO] Loading event hook: Vanilla player join ...
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Vanilla player first join
+22/05/2017 15:10:52 [INFO] Loading event hook: Vanilla player first join ...
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Auctions
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] Auctions
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: Vanilla Combat hook
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: EZRanksUp Rankup event
+22/05/2017 15:10:52 [INFO] Loading event hook: Vanilla Combat hook ...
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] EZRanksPro
+22/05/2017 15:10:52 [DEBUG] Checking conditions for event: BattleLevels Level up event
+22/05/2017 15:10:52 [DEBUG] 	Condition not met: [PLUGIN] BattleLevels
+22/05/2017 15:10:52 [INFO] Creating new custom effect: warning
+22/05/2017 15:10:52 [INFO] 	Lines: 2
+22/05/2017 15:10:52 [INFO] 	Arguments: 1
+22/05/2017 15:10:53 [INFO] Adding scoreboard group 'default' ...
+22/05/2017 15:10:53 [INFO] Adding scoreboard group 'combat-scoreboard-example' ...
+22/05/2017 15:10:53 [INFO] Adding scoreboard group 'mcmmo-levelup' ...
+22/05/2017 15:10:54 [INFO] Adding scoreboard group 'towny-town-example' ...
+22/05/2017 15:10:54 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+22/05/2017 15:10:54 [INFO] Toggle persistence is disabled!
+22/05/2017 15:10:54 [INFO] Adding command 'featherboard'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'toggle'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'on'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'gui'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'placeholders'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'status'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'debug'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'uploadlog'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'uploadconfig'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'permissions'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'about'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'resetconfig'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'changelog'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'help'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'generatebbcode'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'parse'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'show'
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'hide'
+22/05/2017 15:10:51 [DEBUG] Enabled and valid placeholder group: world
+22/05/2017 15:10:51 [DEBUG] 	Condition not met: [PLUGIN - pvptimer] PvPTimer
+22/05/2017 15:10:54 [DEBUG] 	Adding sub command 'off'
+22/05/2017 15:11:31 [DEBUG] Using PlaceholderLoader 20170126
+22/05/2017 15:11:31 [INFO] Loading language file: lang_en
+22/05/2017 15:11:31 [DEBUG] Using SCOREBOARD v5
+22/05/2017 15:11:31 [INFO] Loading messages ...
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: bukkit
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: bukkit
+22/05/2017 15:11:31 [INFO] Loading placeholders ...
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: chatreaction
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: gangsplus1
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - gangsplus1] GangsPlus
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - gangsplus2] GangsPlus
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: survivalgameswazup
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: economy
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - thirst] Thirst
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: pvptimer
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: permissions
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: economy
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:11:34 [INFO] Loaded 2245 of the 4981 placholders
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: BukkitGames
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: mcMMO Level down event
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] BukkitGames
+22/05/2017 15:11:31 [DEBUG] 	Condition met: [PLUGIN - economy] Vault
+22/05/2017 15:11:31 [DEBUG] 	Condition met: [PLUGIN - permissions] Vault
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: permissions
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Vanilla Death hook
+22/05/2017 15:11:34 [INFO] Loading event hook: Vanilla Death hook ...
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: player
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: statistics
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: statistics
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: player
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: previousnames
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: bungeecord
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] BedwarsRel
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: mcMMO Party Level up
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: previousnames
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: redisbungee
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: redisbungee
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Vanilla player first join
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: bungeecord
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: pinger
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: pinger
+22/05/2017 15:11:31 [DEBUG] Enabled and valid placeholder group: geographic
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: compass
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: compass
+22/05/2017 15:11:31 [DEBUG] Checking conditions for placeholder: geographic
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: tps
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: tps
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: memory
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: memory
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: factions1.6
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - towny] Towny
+22/05/2017 15:11:32 [DEBUG] 	Condition met: [PLUGIN - factions1.6] Factions
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [VERSION - factions1.6] 1.6
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: factions1.8
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: towny
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: factions2
+22/05/2017 15:11:32 [DEBUG] 	Condition met: [PLUGIN - factions2] Factions
+22/05/2017 15:11:32 [DEBUG] 	Condition met: [PLUGIN - factions1.8] Factions
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [VERSION - factions1.8] 1.8
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: factions2
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: voteroulette
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - voteroulette] VoteRoulette
+22/05/2017 15:11:32 [DEBUG] 	Condition met: [VERSION - factions2] 2.
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: multiverse
+22/05/2017 15:11:32 [DEBUG] 	Condition met: [PLUGIN - multiverse] Multiverse-Core
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: multiverse
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: playerpoints
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - playerpoints] PlayerPoints
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - zarphyckskywars] SkyWars
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: zarphyckskywars
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - voteparty] VoteParty
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: lwc
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: simpleclans
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - lwc] LWC
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - simpleclans] SimpleClans
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: mcmmo
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: voteparty
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: libsdisguises
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - libsdisguises] LibsDisguises
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - legendquest] LegendQuest
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: legendquest
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: ultimatevotes
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: ezblocks
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: ezprestige
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - mcmmo] mcMMO
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - ultimatevotes] UltimateVotes
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: ezrankslite
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite] EZRanksLite
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - ezrankspro] EZRanksPro
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: ezrankslite2
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: ezrankspro
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - ezprestige] EZPrestige
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - ezblocks] EZBlocks
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: armor
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: custom
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: essentials
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: armor
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: custom
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - essentials] Essentials
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: griefprevention
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - griefprevention] GriefPrevention
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite2] EZRanksLite
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - minecrates] MineCrates
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: pl3xicons
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - pl3xicons] Pl3xIcons
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: magic
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - magic] Magic
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: minecrates
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: worldguard
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: worldborder
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: donationsholograms
+22/05/2017 15:11:32 [DEBUG] Enabled and valid placeholder group: worldguard
+22/05/2017 15:11:32 [DEBUG] 	Condition met: [PLUGIN - worldguard] WorldGuard
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - donationsholograms] DonationsHolograms
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: autosell
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - autosell] AutoSell
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: heroes
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - heroes] Heroes
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: battlelevels
+22/05/2017 15:11:32 [DEBUG] 	Condition met: [PLUGIN - worldborder] WorldBorder
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: worldborder
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: leaderheads
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - leaderheads] LeaderHeads
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: skillapi
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - skillapi] SkillAPI
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - killstats] killStats
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: killstats
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: galistener
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - battlelevels] BattleLevels
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - galistener] GAListener
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - askyblock] ASkyBlock
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: enjin
+22/05/2017 15:11:32 [DEBUG] 	Condition not met: [PLUGIN - autorank] Autorank
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: askyblock
+22/05/2017 15:11:32 [DEBUG] Checking conditions for placeholder: autorank
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - marriage] Marriage
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: marriage
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - plotme] PlotMe
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: tokenchant
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: plotme
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - tokenchant] TokenEnchant
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: jobsreborn
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: jobs
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - enjin] EnjinMinecraftPlugin
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - jobs] Jobs
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: bukkitspeak
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: plotz
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - plotz] Plotz
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - jobsreborn] Jobs
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - bukkitspeak] BukkitSpeak
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - teams] Teams
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: unicode
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: teams
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: wickedskywars
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - wickedskywars] WickedSkyWars
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: uskyblock
+22/05/2017 15:11:33 [DEBUG] Enabled and valid placeholder group: unicode
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: sqlperms
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: plotsquared
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - sqlperms] SQLPerms
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: diceeaster
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - plotsquared] PlotSquared
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - diceeaster] DiceEaster
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - uskyblock] uSkyBlock
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: facebook
+22/05/2017 15:11:33 [DEBUG] Enabled and valid placeholder group: twitter
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: twitter
+22/05/2017 15:11:33 [DEBUG] Enabled and valid placeholder group: facebook
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: skywarsreloaded
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - skywarsreloaded] SkyWarsReloaded
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - chatreaction] ChatReaction
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: gangsplus2
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: deluxetags
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: enchantmenttokens
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - enchantmenttokens] EnchantmentTokens
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: quests
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - quests] Quests
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: killrewards
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - killrewards] KillRewards
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - deluxetags] DeluxeTags
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - survivalgameswazup] SurvivalGames
+22/05/2017 15:11:33 [DEBUG] Enabled and valid placeholder group: hotbar
+22/05/2017 15:11:33 [DEBUG] Enabled and valid placeholder group: playereffects
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: hotbar
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: subsidekoth
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: playereffects
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: kingkits
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - kingkits] KingKits
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: thirst
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: disease
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - disease] Disease
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - subsidekoth] KoTH
+22/05/2017 15:11:33 [DEBUG] Enabled and valid placeholder group: world
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: entities
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: world
+22/05/2017 15:11:33 [DEBUG] Enabled and valid placeholder group: entities
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: killermoney
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - killermoney] KillerMoney
+22/05/2017 15:11:33 [DEBUG] Checking conditions for placeholder: nicky
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - nicky] Nicky
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: acidisland
+22/05/2017 15:11:33 [DEBUG] 	Condition not met: [PLUGIN - pvptimer] PvPTimer
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - bukkitgames] BukkitGames
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: auctions
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: bukkitgames
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - auctions] Auctions
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - acidisland] AcidIsland
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - playtimerewards] PlayTimeRewardsRecoded
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: rankupscrayos
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - rankupscrayos] RankUp
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: islandworld
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: playtimerewards
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: ontime
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - ontime] OnTime
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: marriagemaster
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - marriagemaster] MarriageMaster
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - islandworld] IslandWorld
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: prisonmines
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - prison3] Prison3
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - prisonmines] PrisonMines
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: prison3
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: mvdwplaceholderapi
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - mineresetlite] MineResetLite
+22/05/2017 15:11:34 [DEBUG] 	Condition met: [PLUGIN - mvdwplaceholderapi] MVdWPlaceholderAPI
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: mineresetlite
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: PlaceholderAPI
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - PlaceholderAPI] PlaceholderAPI
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: mobarena
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - mobarena] MobArena
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: bedwarsreloaded
+22/05/2017 15:11:34 [DEBUG] Enabled and valid placeholder group: mvdwplaceholderapi
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: java
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: stockmarket-yahoofinance
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - stockmarket-yahoofinance] StockMarket
+22/05/2017 15:11:34 [DEBUG] Enabled and valid placeholder group: java
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: sellall
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - sellall] SellAll
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - bedwarsreloaded] BedwarsRel
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: townychat
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - townychat] TownyChat
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - minefortress] MineFortress
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: customlist
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - customlist] CustomList
+22/05/2017 15:11:34 [DEBUG] Enabled and valid placeholder group: vanilla-combat
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - kitbattle] KitBattle
+22/05/2017 15:11:34 [DEBUG] Enabled and valid placeholder group: color
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: skript
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - skript] Skript
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: minefortress
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: vanilla-combat
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: kitbattle
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: color
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: superbvote
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - stockmarket] StockMarket
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN - superbvote] SuperbVote
+22/05/2017 15:11:34 [DEBUG] Enabled and valid placeholder group: mysql
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: command
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: mysql
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: stockmarket
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: firework
+22/05/2017 15:11:34 [DEBUG] Enabled and valid placeholder group: firework
+22/05/2017 15:11:34 [DEBUG] Enabled and valid placeholder group: command
+22/05/2017 15:11:34 [DEBUG] Enabled and valid placeholder group: sound
+22/05/2017 15:11:34 [INFO] Loading Event hooks ...
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: mcMMO Level up event
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: ChatReaction start event
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] ChatReaction
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: MobArena
+22/05/2017 15:11:34 [DEBUG] Checking conditions for placeholder: sound
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: KoTH
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] KoTH
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] MobArena
+22/05/2017 15:11:34 [INFO] Loading event hook: Vanilla Block break hook ...
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Vanilla Block place hook
+22/05/2017 15:11:34 [INFO] Loading event hook: Vanilla Block place hook ...
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Vanilla Block break hook
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: SellAll
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: BedwarsRel
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Vanilla Create portal hook
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] SellAll
+22/05/2017 15:11:34 [INFO] Loading event hook: Vanilla Create portal hook ...
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Towny Town
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] Towny
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Vanilla player join
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Vanilla player rejoin
+22/05/2017 15:11:34 [INFO] Loading event hook: Vanilla player first join ...
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Auctions
+22/05/2017 15:11:34 [INFO] Loading event hook: Vanilla player rejoin ...
+22/05/2017 15:11:34 [INFO] Loading event hook: Vanilla player join ...
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: Vanilla Combat hook
+22/05/2017 15:11:34 [INFO] Loading event hook: Vanilla Combat hook ...
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: EZRanksUp Rankup event
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] EZRanksPro
+22/05/2017 15:11:34 [DEBUG] Checking conditions for event: BattleLevels Level up event
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] Auctions
+22/05/2017 15:11:35 [INFO] Creating new custom effect: warning
+22/05/2017 15:11:35 [INFO] 	Lines: 2
+22/05/2017 15:11:35 [INFO] Adding scoreboard group 'default' ...
+22/05/2017 15:11:35 [INFO] 	Arguments: 1
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'status'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'gui'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'debug'
+22/05/2017 15:11:36 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+22/05/2017 15:11:36 [INFO] Adding command 'featherboard'
+22/05/2017 15:11:36 [INFO] Toggle persistence is disabled!
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'off'
+22/05/2017 15:11:36 [INFO] Adding scoreboard group 'towny-town-example' ...
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'on'
+22/05/2017 15:11:35 [INFO] Adding scoreboard group 'mcmmo-levelup' ...
+22/05/2017 15:11:35 [INFO] Adding scoreboard group 'combat-scoreboard-example' ...
+22/05/2017 15:11:34 [DEBUG] 	Condition not met: [PLUGIN] BattleLevels
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'uploadconfig'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'toggle'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'placeholders'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'changelog'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'generatebbcode'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'resetconfig'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'show'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'about'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'uploadlog'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'permissions'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'hide'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'parse'
+22/05/2017 15:11:36 [DEBUG] 	Adding sub command 'help'
+22/05/2017 15:13:57 [DEBUG] Using SCOREBOARD v5
+22/05/2017 15:13:57 [INFO] Loading language file: lang_en
+22/05/2017 15:13:57 [INFO] Loading messages ...
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: ezrankspro
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - ezrankspro] EZRanksPro
+22/05/2017 15:13:59 [DEBUG] 	Condition met: [PLUGIN - worldguard] WorldGuard
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - disease] Disease
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: disease
+22/05/2017 15:13:57 [DEBUG] Checking conditions for placeholder: bukkit
+22/05/2017 15:13:57 [DEBUG] Enabled and valid placeholder group: bukkit
+22/05/2017 15:13:57 [DEBUG] Checking conditions for placeholder: economy
+22/05/2017 15:13:57 [DEBUG] 	Condition met: [PLUGIN - economy] Vault
+22/05/2017 15:13:57 [DEBUG] Enabled and valid placeholder group: economy
+22/05/2017 15:13:57 [DEBUG] Using PlaceholderLoader 20170126
+22/05/2017 15:13:57 [DEBUG] Checking conditions for placeholder: permissions
+22/05/2017 15:13:57 [INFO] Loading placeholders ...
+22/05/2017 15:13:57 [DEBUG] 	Condition met: [PLUGIN - permissions] Vault
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: marriagemaster
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - ontime] OnTime
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - marriagemaster] MarriageMaster
+22/05/2017 15:13:57 [DEBUG] Checking conditions for placeholder: player
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: statistics
+22/05/2017 15:13:57 [DEBUG] Enabled and valid placeholder group: player
+22/05/2017 15:13:57 [DEBUG] Enabled and valid placeholder group: permissions
+22/05/2017 15:13:57 [DEBUG] Checking conditions for placeholder: statistics
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: previousnames
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: previousnames
+22/05/2017 15:14:01 [DEBUG] 	Condition met: [PLUGIN - mvdwplaceholderapi] MVdWPlaceholderAPI
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: bungeecord
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: bungeecord
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - PlaceholderAPI] PlaceholderAPI
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: redisbungee
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: redisbungee
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: pinger
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: pinger
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: stockmarket-yahoofinance
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - stockmarket-yahoofinance] StockMarket
+22/05/2017 15:14:01 [DEBUG] Enabled and valid placeholder group: command
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: firework
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: command
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: sound
+22/05/2017 15:14:01 [DEBUG] Enabled and valid placeholder group: firework
+22/05/2017 15:14:01 [DEBUG] Enabled and valid placeholder group: sound
+22/05/2017 15:14:01 [INFO] Loading Event hooks ...
+22/05/2017 15:14:01 [INFO] Loaded 2245 of the 4981 placholders
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: BukkitGames
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: mcMMO Level down event
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN] BukkitGames
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: mcMMO Level up event
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: ChatReaction start event
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN] ChatReaction
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: MobArena
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN] MobArena
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: KoTH
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: compass
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: geographic
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: geographic
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN] KoTH
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: Vanilla Death hook
+22/05/2017 15:14:01 [INFO] Loading event hook: Vanilla Death hook ...
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: Vanilla Block break hook
+22/05/2017 15:14:01 [INFO] Loading event hook: Vanilla Block break hook ...
+22/05/2017 15:14:01 [DEBUG] Checking conditions for event: Vanilla Block place hook
+22/05/2017 15:14:01 [INFO] Loading event hook: Vanilla Block place hook ...
+22/05/2017 15:14:03 [INFO] Adding scoreboard group 'combat-scoreboard-example' ...
+22/05/2017 15:14:03 [INFO] Adding scoreboard group 'mcmmo-levelup' ...
+22/05/2017 15:14:03 [INFO] Adding scoreboard group 'towny-town-example' ...
+22/05/2017 15:14:04 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: memory
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: memory
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: tps
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: compass
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: factions1.6
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: towny
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - towny] Towny
+22/05/2017 15:13:58 [DEBUG] 	Condition met: [PLUGIN - factions1.6] Factions
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: tps
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: factions1.8
+22/05/2017 15:13:58 [DEBUG] 	Condition met: [PLUGIN - factions1.8] Factions
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: factions2
+22/05/2017 15:13:58 [DEBUG] 	Condition met: [PLUGIN - factions2] Factions
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: voteroulette
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: factions2
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: zarphyckskywars
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - voteroulette] VoteRoulette
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [VERSION - factions1.6] 1.6
+22/05/2017 15:13:58 [DEBUG] 	Condition met: [VERSION - factions2] 2.
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [VERSION - factions1.8] 1.8
+22/05/2017 15:13:58 [DEBUG] 	Condition met: [PLUGIN - multiverse] Multiverse-Core
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - zarphyckskywars] SkyWars
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: multiverse
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - playerpoints] PlayerPoints
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: playerpoints
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: voteparty
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: multiverse
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - lwc] LWC
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - simpleclans] SimpleClans
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: simpleclans
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - libsdisguises] LibsDisguises
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: lwc
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: libsdisguises
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: mcmmo
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - mcmmo] mcMMO
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: legendquest
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - legendquest] LegendQuest
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - ultimatevotes] UltimateVotes
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: ultimatevotes
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: ezblocks
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - ezblocks] EZBlocks
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: ezprestige
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - ezprestige] EZPrestige
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - voteparty] VoteParty
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: armor
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite2] EZRanksLite
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: custom
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: ezrankslite2
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: custom
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: essentials
+22/05/2017 15:13:58 [DEBUG] Enabled and valid placeholder group: armor
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - essentials] Essentials
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: minecrates
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: griefprevention
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - griefprevention] GriefPrevention
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - minecrates] MineCrates
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite] EZRanksLite
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: ezrankslite
+22/05/2017 15:13:58 [DEBUG] 	Condition not met: [PLUGIN - pl3xicons] Pl3xIcons
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - magic] Magic
+22/05/2017 15:13:58 [DEBUG] Checking conditions for placeholder: pl3xicons
+22/05/2017 15:13:59 [DEBUG] 	Condition met: [PLUGIN - worldborder] WorldBorder
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: worldguard
+22/05/2017 15:13:59 [DEBUG] Enabled and valid placeholder group: worldborder
+22/05/2017 15:13:59 [DEBUG] Enabled and valid placeholder group: worldguard
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: donationsholograms
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - donationsholograms] DonationsHolograms
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: autosell
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - autosell] AutoSell
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: heroes
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - heroes] Heroes
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: battlelevels
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - battlelevels] BattleLevels
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: leaderheads
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: magic
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: skillapi
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - skillapi] SkillAPI
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: killstats
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - killstats] killStats
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: galistener
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - galistener] GAListener
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: askyblock
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - askyblock] ASkyBlock
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: autorank
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - autorank] Autorank
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: enjin
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - enjin] EnjinMinecraftPlugin
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: marriage
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: plotme
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: tokenchant
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - tokenchant] TokenEnchant
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - plotme] PlotMe
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: jobs
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: jobsreborn
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - jobsreborn] Jobs
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: bukkitspeak
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - bukkitspeak] BukkitSpeak
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: plotz
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - plotz] Plotz
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - marriage] Marriage
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - teams] Teams
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: teams
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: worldborder
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - leaderheads] LeaderHeads
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: wickedskywars
+22/05/2017 15:13:59 [DEBUG] Enabled and valid placeholder group: unicode
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - wickedskywars] WickedSkyWars
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: uskyblock
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - uskyblock] uSkyBlock
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: unicode
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: sqlperms
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - jobs] Jobs
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - sqlperms] SQLPerms
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - plotsquared] PlotSquared
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: plotsquared
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: enchantmenttokens
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - diceeaster] DiceEaster
+22/05/2017 15:13:59 [DEBUG] 	Condition not met: [PLUGIN - enchantmenttokens] EnchantmentTokens
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: twitter
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: diceeaster
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: skywarsreloaded
+22/05/2017 15:13:59 [DEBUG] Enabled and valid placeholder group: facebook
+22/05/2017 15:13:59 [DEBUG] Checking conditions for placeholder: facebook
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - skywarsreloaded] SkyWarsReloaded
+22/05/2017 15:13:59 [DEBUG] Enabled and valid placeholder group: twitter
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: gangsplus1
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - gangsplus1] GangsPlus
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: gangsplus2
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - gangsplus2] GangsPlus
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: deluxetags
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - deluxetags] DeluxeTags
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: quests
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - quests] Quests
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: killrewards
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - killrewards] KillRewards
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: chatreaction
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - chatreaction] ChatReaction
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: survivalgameswazup
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - survivalgameswazup] SurvivalGames
+22/05/2017 15:14:00 [DEBUG] Enabled and valid placeholder group: playereffects
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: hotbar
+22/05/2017 15:14:00 [DEBUG] Enabled and valid placeholder group: hotbar
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: subsidekoth
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - subsidekoth] KoTH
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: kingkits
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: playereffects
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: thirst
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - pvptimer] PvPTimer
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: world
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - thirst] Thirst
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: pvptimer
+22/05/2017 15:14:00 [DEBUG] Enabled and valid placeholder group: world
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: entities
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - kingkits] KingKits
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - killermoney] KillerMoney
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - nicky] Nicky
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: nicky
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: killermoney
+22/05/2017 15:14:00 [DEBUG] Enabled and valid placeholder group: entities
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: bukkitgames
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - auctions] Auctions
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - acidisland] AcidIsland
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: auctions
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: playtimerewards
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - playtimerewards] PlayTimeRewardsRecoded
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: rankupscrayos
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - rankupscrayos] RankUp
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: islandworld
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - islandworld] IslandWorld
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: ontime
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - prison3] Prison3
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: prison3
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: prisonmines
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - prisonmines] PrisonMines
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: mineresetlite
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - mineresetlite] MineResetLite
+22/05/2017 15:14:00 [DEBUG] 	Condition not met: [PLUGIN - bukkitgames] BukkitGames
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: mvdwplaceholderapi
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: mobarena
+22/05/2017 15:14:01 [DEBUG] Enabled and valid placeholder group: mvdwplaceholderapi
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - mobarena] MobArena
+22/05/2017 15:14:00 [DEBUG] Checking conditions for placeholder: acidisland
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: PlaceholderAPI
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - bedwarsreloaded] BedwarsRel
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: sellall
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - sellall] SellAll
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: java
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: customlist
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - customlist] CustomList
+22/05/2017 15:14:01 [DEBUG] Enabled and valid placeholder group: java
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: townychat
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - townychat] TownyChat
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: minefortress
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - minefortress] MineFortress
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: bedwarsreloaded
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - kitbattle] KitBattle
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: skript
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: color
+22/05/2017 15:14:01 [DEBUG] Enabled and valid placeholder group: color
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - skript] Skript
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - stockmarket] StockMarket
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: stockmarket
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: superbvote
+22/05/2017 15:14:01 [DEBUG] Enabled and valid placeholder group: vanilla-combat
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: mysql
+22/05/2017 15:14:01 [DEBUG] 	Condition not met: [PLUGIN - superbvote] SuperbVote
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: vanilla-combat
+22/05/2017 15:14:01 [DEBUG] Checking conditions for placeholder: kitbattle
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: Vanilla Create portal hook
+22/05/2017 15:14:02 [INFO] Loading event hook: Vanilla Create portal hook ...
+22/05/2017 15:14:01 [DEBUG] Enabled and valid placeholder group: mysql
+22/05/2017 15:14:02 [DEBUG] 	Condition not met: [PLUGIN] SellAll
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: BedwarsRel
+22/05/2017 15:14:02 [DEBUG] 	Condition not met: [PLUGIN] BedwarsRel
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: mcMMO Party Level up
+22/05/2017 15:14:02 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: Towny Town
+22/05/2017 15:14:02 [DEBUG] 	Condition not met: [PLUGIN] Towny
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: Vanilla player join
+22/05/2017 15:14:02 [INFO] Loading event hook: Vanilla player join ...
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: SellAll
+22/05/2017 15:14:02 [INFO] Loading event hook: Vanilla player first join ...
+22/05/2017 15:14:02 [INFO] Loading event hook: Vanilla player rejoin ...
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: Vanilla player first join
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: Vanilla player rejoin
+22/05/2017 15:14:02 [DEBUG] 	Condition not met: [PLUGIN] Auctions
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: Vanilla Combat hook
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: EZRanksUp Rankup event
+22/05/2017 15:14:02 [INFO] Loading event hook: Vanilla Combat hook ...
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: Auctions
+22/05/2017 15:14:02 [DEBUG] Checking conditions for event: BattleLevels Level up event
+22/05/2017 15:14:02 [DEBUG] 	Condition not met: [PLUGIN] EZRanksPro
+22/05/2017 15:14:02 [INFO] 	Arguments: 1
+22/05/2017 15:14:02 [INFO] 	Lines: 2
+22/05/2017 15:14:02 [INFO] Adding scoreboard group 'default' ...
+22/05/2017 15:14:02 [INFO] Creating new custom effect: warning
+22/05/2017 15:14:02 [DEBUG] 	Condition not met: [PLUGIN] BattleLevels
+22/05/2017 15:14:04 [INFO] Toggle persistence is disabled!
+22/05/2017 15:14:04 [INFO] Adding command 'featherboard'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'on'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'off'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'placeholders'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'status'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'debug'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'uploadlog'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'permissions'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'about'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'changelog'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'help'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'toggle'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'gui'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'resetconfig'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'uploadconfig'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'parse'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'hide'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'generatebbcode'
+22/05/2017 15:14:04 [DEBUG] 	Adding sub command 'show'
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - griefprevention] GriefPrevention
+22/05/2017 15:15:31 [INFO] Loading messages ...
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - thirst] Thirst
+22/05/2017 15:15:31 [INFO] Loading language file: lang_en
+22/05/2017 15:15:31 [DEBUG] Using SCOREBOARD v5
+22/05/2017 15:15:31 [INFO] Loading placeholders ...
+22/05/2017 15:15:31 [DEBUG] Using PlaceholderLoader 20170126
+22/05/2017 15:15:31 [DEBUG] Checking conditions for placeholder: bukkit
+22/05/2017 15:15:31 [DEBUG] Enabled and valid placeholder group: bukkit
+22/05/2017 15:15:31 [DEBUG] Checking conditions for placeholder: economy
+22/05/2017 15:15:31 [DEBUG] 	Condition met: [PLUGIN - economy] Vault
+22/05/2017 15:15:31 [DEBUG] Enabled and valid placeholder group: economy
+22/05/2017 15:15:31 [DEBUG] Checking conditions for placeholder: permissions
+22/05/2017 15:15:31 [DEBUG] 	Condition met: [PLUGIN - permissions] Vault
+22/05/2017 15:15:31 [DEBUG] Enabled and valid placeholder group: permissions
+22/05/2017 15:15:31 [DEBUG] Checking conditions for placeholder: player
+22/05/2017 15:15:31 [DEBUG] Enabled and valid placeholder group: player
+22/05/2017 15:15:31 [DEBUG] Checking conditions for placeholder: statistics
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: statistics
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: previousnames
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: previousnames
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: bungeecord
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: bungeecord
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: redisbungee
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: redisbungee
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: pinger
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: pinger
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: geographic
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: geographic
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: compass
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: compass
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: memory
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: memory
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: tps
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: tps
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: towny
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - towny] Towny
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: factions1.6
+22/05/2017 15:15:32 [DEBUG] 	Condition met: [PLUGIN - factions1.6] Factions
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [VERSION - factions1.6] 1.6
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: factions1.8
+22/05/2017 15:15:32 [DEBUG] 	Condition met: [PLUGIN - factions1.8] Factions
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [VERSION - factions1.8] 1.8
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: factions2
+22/05/2017 15:15:32 [DEBUG] 	Condition met: [PLUGIN - factions2] Factions
+22/05/2017 15:15:32 [DEBUG] 	Condition met: [VERSION - factions2] 2.
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: factions2
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: voteroulette
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - voteroulette] VoteRoulette
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: zarphyckskywars
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - zarphyckskywars] SkyWars
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: multiverse
+22/05/2017 15:15:32 [DEBUG] 	Condition met: [PLUGIN - multiverse] Multiverse-Core
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: multiverse
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: playerpoints
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - playerpoints] PlayerPoints
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: voteparty
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - voteparty] VoteParty
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: lwc
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - lwc] LWC
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: simpleclans
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - simpleclans] SimpleClans
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: mcmmo
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - mcmmo] mcMMO
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: libsdisguises
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - libsdisguises] LibsDisguises
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'show'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'hide'
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: ezblocks
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: ezprestige
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - ezprestige] EZPrestige
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: ezrankspro
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - ezrankspro] EZRanksPro
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: armor
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: custom
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: essentials
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: griefprevention
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite2] EZRanksLite
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - magic] Magic
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: pl3xicons
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: worldborder
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite] EZRanksLite
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - donationsholograms] DonationsHolograms
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - autosell] AutoSell
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: donationsholograms
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: battlelevels
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - battlelevels] BattleLevels
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: skillapi
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: worldguard
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - killstats] killStats
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - essentials] Essentials
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - leaderheads] LeaderHeads
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - wickedskywars] WickedSkyWars
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - enchantmenttokens] EnchantmentTokens
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - playtimerewards] PlayTimeRewardsRecoded
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: mvdwplaceholderapi
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - PlaceholderAPI] PlaceholderAPI
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: ChatReaction start event
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - marriage] Marriage
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - galistener] GAListener
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Vanilla Block place hook
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - survivalgameswazup] SurvivalGames
+22/05/2017 15:15:34 [DEBUG] 	Condition met: [PLUGIN - mvdwplaceholderapi] MVdWPlaceholderAPI
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - askyblock] ASkyBlock
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: stockmarket-yahoofinance
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - skywarsreloaded] SkyWarsReloaded
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - stockmarket-yahoofinance] StockMarket
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: minecrates
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - minefortress] MineFortress
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - marriagemaster] MarriageMaster
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: killstats
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - chatreaction] ChatReaction
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - bedwarsreloaded] BedwarsRel
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - mineresetlite] MineResetLite
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - enjin] EnjinMinecraftPlugin
+22/05/2017 15:15:32 [DEBUG] 	Condition met: [PLUGIN - worldborder] WorldBorder
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: mvdwplaceholderapi
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Vanilla player first join
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Vanilla Block break hook
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: marriage
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: tokenchant
+22/05/2017 15:15:32 [DEBUG] 	Condition met: [PLUGIN - worldguard] WorldGuard
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - autorank] Autorank
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: survivalgameswazup
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: enjin
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - plotme] PlotMe
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - skillapi] SkillAPI
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: heroes
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: autorank
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: plotme
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - heroes] Heroes
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - tokenchant] TokenEnchant
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: jobs
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: jobsreborn
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - jobs] Jobs
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - jobsreborn] Jobs
+22/05/2017 15:15:32 [DEBUG] Enabled and valid placeholder group: custom
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: ezrankslite
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Vanilla Create portal hook
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: BattleLevels Level up event
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: leaderheads
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: askyblock
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: autosell
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: bukkitspeak
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: armor
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - bukkitspeak] BukkitSpeak
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: plotz
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - plotz] Plotz
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - teams] Teams
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: teams
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: unicode
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: wickedskywars
+22/05/2017 15:15:33 [DEBUG] Enabled and valid placeholder group: unicode
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: uskyblock
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - uskyblock] uSkyBlock
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: sqlperms
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: plotsquared
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - sqlperms] SQLPerms
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - plotsquared] PlotSquared
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - diceeaster] DiceEaster
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: enchantmenttokens
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: diceeaster
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: twitter
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: facebook
+22/05/2017 15:15:33 [DEBUG] Enabled and valid placeholder group: twitter
+22/05/2017 15:15:33 [DEBUG] Enabled and valid placeholder group: facebook
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: chatreaction
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: skywarsreloaded
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: gangsplus1
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - gangsplus1] GangsPlus
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: gangsplus2
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: deluxetags
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: quests
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - gangsplus2] GangsPlus
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - quests] Quests
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: killrewards
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - deluxetags] DeluxeTags
+22/05/2017 15:15:33 [DEBUG] 	Condition not met: [PLUGIN - killrewards] KillRewards
+22/05/2017 15:15:33 [DEBUG] Enabled and valid placeholder group: playereffects
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: playereffects
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: hotbar
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: subsidekoth
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: hotbar
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - subsidekoth] KoTH
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: kingkits
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - kingkits] KingKits
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: thirst
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: disease
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - disease] Disease
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - pvptimer] PvPTimer
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: pvptimer
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: world
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: entities
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: world
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: entities
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - killermoney] KillerMoney
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: killermoney
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: nicky
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: acidisland
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - nicky] Nicky
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: bukkitgames
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - bukkitgames] BukkitGames
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: auctions
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - acidisland] AcidIsland
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - auctions] Auctions
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: playtimerewards
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: islandworld
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: rankupscrayos
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - rankupscrayos] RankUp
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - islandworld] IslandWorld
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: ontime
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - ontime] OnTime
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: marriagemaster
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - prison3] Prison3
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: prison3
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: prisonmines
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - prisonmines] PrisonMines
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: mineresetlite
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: PlaceholderAPI
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: mobarena
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - mobarena] MobArena
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: bedwarsreloaded
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: java
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: java
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: sellall
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: customlist
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - sellall] SellAll
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - customlist] CustomList
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: townychat
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: minefortress
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - townychat] TownyChat
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: vanilla-combat
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: kitbattle
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - kitbattle] KitBattle
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: vanilla-combat
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: color
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: color
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: skript
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: stockmarket
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - stockmarket] StockMarket
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - skript] Skript
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN - superbvote] SuperbVote
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: superbvote
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: mysql
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: mysql
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: command
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: command
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: firework
+22/05/2017 15:15:35 [INFO] Loading event hook: Vanilla Block break hook ...
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: mcMMO Level down event
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: sound
+22/05/2017 15:15:34 [DEBUG] Enabled and valid placeholder group: sound
+22/05/2017 15:15:34 [INFO] Loaded 2245 of the 4981 placholders
+22/05/2017 15:15:34 [INFO] Loading Event hooks ...
+22/05/2017 15:15:34 [DEBUG] 	Condition not met: [PLUGIN] BukkitGames
+22/05/2017 15:15:34 [DEBUG] Checking conditions for event: BukkitGames
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] MobArena
+22/05/2017 15:15:34 [DEBUG] Checking conditions for placeholder: firework
+22/05/2017 15:15:35 [INFO] Loading event hook: Vanilla Block place hook ...
+22/05/2017 15:15:35 [INFO] Loading event hook: Vanilla Create portal hook ...
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Vanilla player join
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: mcMMO Party Level up
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: EZRanksUp Rankup event
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Vanilla player rejoin
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Vanilla Combat hook
+22/05/2017 15:15:36 [INFO] Adding scoreboard group 'towny-town-example' ...
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - ezblocks] EZBlocks
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: ezrankslite2
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: worldborder
+22/05/2017 15:15:33 [DEBUG] Checking conditions for placeholder: galistener
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: worldguard
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - minecrates] MineCrates
+22/05/2017 15:15:36 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - pl3xicons] Pl3xIcons
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: MobArena
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] ChatReaction
+22/05/2017 15:15:35 [INFO] Loading event hook: Vanilla Death hook ...
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: mcMMO Level up event
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Vanilla Death hook
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] KoTH
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: KoTH
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: SellAll
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: BedwarsRel
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] SellAll
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] BedwarsRel
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] Towny
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Towny Town
+22/05/2017 15:15:35 [INFO] Loading event hook: Vanilla player join ...
+22/05/2017 15:15:35 [INFO] Loading event hook: Vanilla player rejoin ...
+22/05/2017 15:15:35 [DEBUG] Checking conditions for event: Auctions
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] Auctions
+22/05/2017 15:15:35 [INFO] Loading event hook: Vanilla Combat hook ...
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] EZRanksPro
+22/05/2017 15:15:35 [INFO] Creating new custom effect: warning
+22/05/2017 15:15:35 [INFO] 	Lines: 2
+22/05/2017 15:15:35 [DEBUG] 	Condition not met: [PLUGIN] BattleLevels
+22/05/2017 15:15:35 [INFO] 	Arguments: 1
+22/05/2017 15:15:35 [INFO] Adding scoreboard group 'default' ...
+22/05/2017 15:15:36 [INFO] Adding scoreboard group 'mcmmo-levelup' ...
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'generatebbcode'
+22/05/2017 15:15:36 [INFO] Toggle persistence is disabled!
+22/05/2017 15:15:36 [INFO] Adding command 'featherboard'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'toggle'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'on'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'gui'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'placeholders'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'off'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'status'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'debug'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'uploadlog'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'resetconfig'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'uploadconfig'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'about'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'permissions'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'help'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'changelog'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:15:36 [DEBUG] 	Adding sub command 'parse'
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: magic
+22/05/2017 15:15:35 [INFO] Loading event hook: Vanilla player first join ...
+22/05/2017 15:15:36 [INFO] Adding scoreboard group 'combat-scoreboard-example' ...
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - ultimatevotes] UltimateVotes
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: ultimatevotes
+22/05/2017 15:15:32 [DEBUG] 	Condition not met: [PLUGIN - legendquest] LegendQuest
+22/05/2017 15:15:32 [DEBUG] Checking conditions for placeholder: legendquest
+22/05/2017 15:17:57 [DEBUG] Enabled and valid placeholder group: bukkit
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: teams
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [VERSION - factions1.8] 1.8
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: factions2
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: tps
+22/05/2017 15:17:57 [INFO] Loading messages ...
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - skywarsreloaded] SkyWarsReloaded
+22/05/2017 15:17:57 [INFO] Loading language file: lang_en
+22/05/2017 15:17:59 [DEBUG] 	Condition met: [PLUGIN - factions2] Factions
+22/05/2017 15:17:59 [DEBUG] 	Condition met: [VERSION - factions2] 2.
+22/05/2017 15:17:57 [DEBUG] Using SCOREBOARD v5
+22/05/2017 15:17:57 [INFO] Loading placeholders ...
+22/05/2017 15:17:57 [DEBUG] Using PlaceholderLoader 20170126
+22/05/2017 15:17:57 [DEBUG] Checking conditions for placeholder: bukkit
+22/05/2017 15:17:57 [DEBUG] Checking conditions for placeholder: economy
+22/05/2017 15:17:57 [DEBUG] 	Condition met: [PLUGIN - economy] Vault
+22/05/2017 15:17:59 [DEBUG] Enabled and valid placeholder group: factions2
+22/05/2017 15:17:57 [DEBUG] Enabled and valid placeholder group: economy
+22/05/2017 15:17:57 [DEBUG] Checking conditions for placeholder: permissions
+22/05/2017 15:17:57 [DEBUG] 	Condition met: [PLUGIN - permissions] Vault
+22/05/2017 15:17:57 [DEBUG] Enabled and valid placeholder group: permissions
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: player
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: player
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: statistics
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: statistics
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: voteroulette
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - voteroulette] VoteRoulette
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: zarphyckskywars
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - zarphyckskywars] SkyWars
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: multiverse
+22/05/2017 15:17:59 [DEBUG] 	Condition met: [PLUGIN - multiverse] Multiverse-Core
+22/05/2017 15:17:59 [DEBUG] Enabled and valid placeholder group: multiverse
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: playerpoints
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - playerpoints] PlayerPoints
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: voteparty
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - voteparty] VoteParty
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: lwc
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - lwc] LWC
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: simpleclans
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - simpleclans] SimpleClans
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: mcmmo
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - mcmmo] mcMMO
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: libsdisguises
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - libsdisguises] LibsDisguises
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: legendquest
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: ultimatevotes
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - legendquest] LegendQuest
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - ultimatevotes] UltimateVotes
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: ezblocks
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - ezblocks] EZBlocks
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: ezprestige
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - ezprestige] EZPrestige
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: ezrankslite
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: ezrankspro
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite] EZRanksLite
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - ezrankspro] EZRanksPro
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: ezrankslite2
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - ezrankslite2] EZRanksLite
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: armor
+22/05/2017 15:17:59 [DEBUG] Enabled and valid placeholder group: armor
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: custom
+22/05/2017 15:17:59 [DEBUG] Enabled and valid placeholder group: custom
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: essentials
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - essentials] Essentials
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: griefprevention
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - griefprevention] GriefPrevention
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: minecrates
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: pl3xicons
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - minecrates] MineCrates
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - pl3xicons] Pl3xIcons
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: magic
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - magic] Magic
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: worldborder
+22/05/2017 15:17:59 [DEBUG] 	Condition met: [PLUGIN - worldborder] WorldBorder
+22/05/2017 15:17:59 [DEBUG] Enabled and valid placeholder group: worldborder
+22/05/2017 15:17:59 [DEBUG] 	Condition met: [PLUGIN - worldguard] WorldGuard
+22/05/2017 15:17:59 [DEBUG] Enabled and valid placeholder group: worldguard
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: donationsholograms
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - donationsholograms] DonationsHolograms
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: autosell
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: worldguard
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - autosell] AutoSell
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: previousnames
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: previousnames
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: heroes
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - heroes] Heroes
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: battlelevels
+22/05/2017 15:17:59 [DEBUG] 	Condition not met: [PLUGIN - battlelevels] BattleLevels
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - leaderheads] LeaderHeads
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: skillapi
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - skillapi] SkillAPI
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: killstats
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - killstats] killStats
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: galistener
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - galistener] GAListener
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: askyblock
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - askyblock] ASkyBlock
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: autorank
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: enjin
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - autorank] Autorank
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - enjin] EnjinMinecraftPlugin
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: marriage
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - marriage] Marriage
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: plotme
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - plotme] PlotMe
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: tokenchant
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - tokenchant] TokenEnchant
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: jobs
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - jobs] Jobs
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - jobsreborn] Jobs
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: bukkitspeak
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - bukkitspeak] BukkitSpeak
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - plotz] Plotz
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: plotz
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: unicode
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - teams] Teams
+22/05/2017 15:18:00 [DEBUG] Enabled and valid placeholder group: unicode
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: wickedskywars
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - wickedskywars] WickedSkyWars
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: uskyblock
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - uskyblock] uSkyBlock
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: sqlperms
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: bungeecord
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - sqlperms] SQLPerms
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: redisbungee
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: plotsquared
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - plotsquared] PlotSquared
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: bungeecord
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: leaderheads
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: jobsreborn
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: redisbungee
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: pinger
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: pinger
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: geographic
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: geographic
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: compass
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: compass
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: memory
+22/05/2017 15:17:58 [DEBUG] Enabled and valid placeholder group: memory
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: tps
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: towny
+22/05/2017 15:17:58 [DEBUG] Checking conditions for placeholder: factions1.6
+22/05/2017 15:17:58 [DEBUG] 	Condition not met: [PLUGIN - towny] Towny
+22/05/2017 15:17:58 [DEBUG] 	Condition met: [PLUGIN - factions1.6] Factions
+22/05/2017 15:17:59 [DEBUG] Checking conditions for placeholder: factions1.8
+22/05/2017 15:17:58 [DEBUG] 	Condition not met: [VERSION - factions1.6] 1.6
+22/05/2017 15:17:59 [DEBUG] 	Condition met: [PLUGIN - factions1.8] Factions
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: diceeaster
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - diceeaster] DiceEaster
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: enchantmenttokens
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - enchantmenttokens] EnchantmentTokens
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: twitter
+22/05/2017 15:18:00 [DEBUG] Enabled and valid placeholder group: twitter
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: facebook
+22/05/2017 15:18:00 [DEBUG] Enabled and valid placeholder group: facebook
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: chatreaction
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: skywarsreloaded
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - chatreaction] ChatReaction
+22/05/2017 15:18:00 [DEBUG] Checking conditions for placeholder: gangsplus1
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: gangsplus2
+22/05/2017 15:18:00 [DEBUG] 	Condition not met: [PLUGIN - gangsplus1] GangsPlus
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - gangsplus2] GangsPlus
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: deluxetags
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - deluxetags] DeluxeTags
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: quests
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - quests] Quests
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: killrewards
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - killrewards] KillRewards
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: playereffects
+22/05/2017 15:18:01 [DEBUG] Enabled and valid placeholder group: playereffects
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: survivalgameswazup
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - survivalgameswazup] SurvivalGames
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: hotbar
+22/05/2017 15:18:01 [DEBUG] Enabled and valid placeholder group: hotbar
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: subsidekoth
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: kingkits
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - subsidekoth] KoTH
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - kingkits] KingKits
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: thirst
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - thirst] Thirst
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: disease
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: pvptimer
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - disease] Disease
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: world
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'generatebbcode'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'resetconfig'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'uploadconfig'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'on'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'about'
+22/05/2017 15:18:03 [INFO] Adding scoreboard group 'default' ...
+22/05/2017 15:18:05 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+22/05/2017 15:18:04 [INFO] Adding scoreboard group 'towny-town-example' ...
+22/05/2017 15:18:04 [INFO] Adding scoreboard group 'combat-scoreboard-example' ...
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] Auctions
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Auctions
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'toggle'
+22/05/2017 15:18:05 [INFO] Toggle persistence is disabled!
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] Towny
+22/05/2017 15:18:02 [INFO] Loading event hook: Vanilla player join ...
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: BattleLevels Level up event
+22/05/2017 15:18:02 [INFO] Loading event hook: Vanilla Combat hook ...
+22/05/2017 15:18:02 [INFO] Loading event hook: Vanilla player first join ...
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: EZRanksUp Rankup event
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'gui'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'debug'
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - rankupscrayos] RankUp
+22/05/2017 15:18:03 [INFO] 	Arguments: 1
+22/05/2017 15:18:04 [INFO] Adding scoreboard group 'mcmmo-levelup' ...
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: islandworld
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Vanilla player first join
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] EZRanksPro
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Vanilla Combat hook
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: mcMMO Party Level up
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: ontime
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - islandworld] IslandWorld
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] BattleLevels
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - pvptimer] PvPTimer
+22/05/2017 15:18:03 [INFO] 	Lines: 2
+22/05/2017 15:18:02 [INFO] Loading event hook: Vanilla player rejoin ...
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'help'
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] BedwarsRel
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'status'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'placeholders'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'permissions'
+22/05/2017 15:18:03 [INFO] Creating new custom effect: warning
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'off'
+22/05/2017 15:18:05 [INFO] Adding command 'featherboard'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'uploadlog'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'reload'
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - ontime] OnTime
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: prison3
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: mvdwplaceholderapi
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - mineresetlite] MineResetLite
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - prisonmines] PrisonMines
+22/05/2017 15:18:01 [DEBUG] Enabled and valid placeholder group: mvdwplaceholderapi
+22/05/2017 15:18:01 [DEBUG] 	Condition met: [PLUGIN - mvdwplaceholderapi] MVdWPlaceholderAPI
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: mineresetlite
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - prison3] Prison3
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: prisonmines
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: PlaceholderAPI
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - PlaceholderAPI] PlaceholderAPI
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - bedwarsreloaded] BedwarsRel
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: java
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: mobarena
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: stockmarket-yahoofinance
+22/05/2017 15:18:02 [DEBUG] Enabled and valid placeholder group: java
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - sellall] SellAll
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - townychat] TownyChat
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - minefortress] MineFortress
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: vanilla-combat
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - stockmarket-yahoofinance] StockMarket
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: skript
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: bedwarsreloaded
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - stockmarket] StockMarket
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: firework
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: customlist
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: BukkitGames
+22/05/2017 15:18:02 [DEBUG] Enabled and valid placeholder group: firework
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: mcMMO Level down event
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: mysql
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: ChatReaction start event
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: MobArena
+22/05/2017 15:18:02 [DEBUG] Enabled and valid placeholder group: mysql
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: mcMMO Level up event
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - customlist] CustomList
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Towny Town
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: minefortress
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] BukkitGames
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - mobarena] MobArena
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Vanilla Block break hook
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: color
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: command
+22/05/2017 15:18:02 [INFO] Loading event hook: Vanilla Create portal hook ...
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - kitbattle] KitBattle
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: marriagemaster
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - superbvote] SuperbVote
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Vanilla Block place hook
+22/05/2017 15:18:02 [INFO] Loading event hook: Vanilla Block break hook ...
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Vanilla Create portal hook
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN - skript] Skript
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: townychat
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Vanilla Death hook
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - marriagemaster] MarriageMaster
+22/05/2017 15:18:02 [DEBUG] Enabled and valid placeholder group: vanilla-combat
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Vanilla player join
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: Vanilla player rejoin
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: kitbattle
+22/05/2017 15:18:02 [INFO] Loading event hook: Vanilla Block place hook ...
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: stockmarket
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: sellall
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: BedwarsRel
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: superbvote
+22/05/2017 15:18:02 [DEBUG] Enabled and valid placeholder group: sound
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:18:02 [DEBUG] Checking conditions for placeholder: sound
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] MobArena
+22/05/2017 15:18:02 [DEBUG] Enabled and valid placeholder group: color
+22/05/2017 15:18:02 [INFO] Loaded 2245 of the 4981 placholders
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: SellAll
+22/05/2017 15:18:02 [DEBUG] Checking conditions for event: KoTH
+22/05/2017 15:18:02 [INFO] Loading event hook: Vanilla Death hook ...
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] ChatReaction
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] SellAll
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] KoTH
+22/05/2017 15:18:02 [DEBUG] 	Condition not met: [PLUGIN] mcMMO
+22/05/2017 15:18:02 [INFO] Loading Event hooks ...
+22/05/2017 15:18:02 [DEBUG] Enabled and valid placeholder group: command
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: entities
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'parse'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'hide'
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'show'
+22/05/2017 15:18:01 [DEBUG] Enabled and valid placeholder group: world
+22/05/2017 15:18:01 [DEBUG] Enabled and valid placeholder group: entities
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: killermoney
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - killermoney] KillerMoney
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - nicky] Nicky
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: nicky
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - acidisland] AcidIsland
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: acidisland
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - bukkitgames] BukkitGames
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: playtimerewards
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: auctions
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - playtimerewards] PlayTimeRewardsRecoded
+22/05/2017 15:18:01 [DEBUG] 	Condition not met: [PLUGIN - auctions] Auctions
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: bukkitgames
+22/05/2017 15:18:01 [DEBUG] Checking conditions for placeholder: rankupscrayos
+22/05/2017 15:18:05 [DEBUG] 	Adding sub command 'changelog'

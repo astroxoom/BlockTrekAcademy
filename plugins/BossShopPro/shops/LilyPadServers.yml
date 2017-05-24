@@ -1,0 +1,92 @@
+ShopName: LilyPadServers
+DisplayName: '&c&lLilyPadServers'
+signs:
+  text: '[LilyPadServers]'
+  NeedPermissionToCreateSign: true
+shop:
+  EarthGame:
+    MenuItem:
+    - lore:&7Click to connect!
+    - name:&aEarth Game
+    - amount:1
+    - type:STAINED_CLAY
+    - durability:3
+    RewardType: PLAYERCOMMAND
+    Reward:
+    - server earthgame
+    PriceType: NOTHING
+    Message: ''
+    ExtraPermission: ''
+    InventoryLocation: 2
+  Creative:
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aCreative
+    - lore:&7Click to connect!
+    - durability:11
+    RewardType: PLAYERCOMMAND
+    Reward: server creative
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 3
+  HungerGames:
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aHunger Games
+    - lore:&7Click to connect!
+    - durability:14
+    RewardType: PLAYERCOMMAND
+    Reward: server hungergames
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 4
+  Survival:
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aSurvival
+    - lore:&7Click to connect!
+    - durability:10
+    RewardType: PLAYERCOMMAND
+    Reward: server survival
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 5
+  PvP:
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aPvP
+    - lore:&7Click to connect!
+    - durability:5
+    RewardType: PLAYERCOMMAND
+    Reward: server pvp
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 6
+  Factions:
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aFactions
+    - lore:&7Click to connect!
+    - durability:13
+    RewardType: PLAYERCOMMAND
+    Reward: server factions
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 7
+  ZombieV:
+    MenuItem:
+    - type:STAINED_CLAY
+    - amount:1
+    - name:&aZombieV &6&ONew!
+    - lore:&7Click to connect!
+    - durability:4
+    RewardType: PLAYERCOMMAND
+    Reward: server zombiev
+    PriceType: NOTHING
+    ExtraPermission: ''
+    InventoryLocation: 8

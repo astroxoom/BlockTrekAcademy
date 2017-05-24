@@ -1,0 +1,365 @@
+# ---------------------- #
+# ----- HyperDrive ----- #
+# ---------------------- #
+
+# Should HyperDrive check for updates? #
+Update Checker: true
+# How long should HyperDrive wait in between update checking/notifications. (In Seconds) #
+Update Checker Reminder: 900
+# Should HyperDrive automatically save all warps after a curtain duration of time? #
+Auto Save: true
+# How long should HyperDrive wait in between saves to begin another warp save. (In Seconds) #
+Auto Save Timer: 900
+# Should HyperDrive automatically reload all warps after a curtain duration of time? #
+Auto Reload: true
+# How long should HyperDrive wait in between reloads to begin another warp reload. (In Seconds) #
+Auto Reload Timer: 900
+# Should HyperDrive display logging messages in console? #
+Logging Mode: false
+
+Converters:
+  # This toggles the essentials warp converter on startup. #
+  Essentials Warp Converter: false
+  # If HyperDrive finds essentials installed in the server along with it, HyperDrive will try and convert all warps. #
+  Convert Warps In Current Plugins Folder: true
+  # In order for this to work please add the file path to your Essentials Warp folder. #
+  # (This must be the exact path to your Warps folder inside of the essentials folder!) #
+  # (For Example my path is "D:\Projects\Servers\Test Server\plugins\Essentials\warps" Donn't include the quotes) #
+  Essentials Warp Folder: ''
+  # Should HyperDrive delete the essentials warp after it converts it? #
+  Delete Essentials Warps: true
+  # After HyperDrive is ready to convert the warps how long should it wait before actually begin the process (In Seconds). #
+  Convert Delay: 5
+  # How should the icons of these newly converted warps look? #
+  # (Keep in mind that in order to add someone or yourself to owner of one of these warps #
+  # you must have admin access ingame and edit them within the menu they are located in.) #
+  Icons:
+    # What status should these newly converted warp take as? #
+    # Current Statuses: [Public, Server, Private] #
+    Status: 'Server'
+    
+Options:
+  # This will force a player to have a warp delay and cooldown no matter what. #
+  # (Disable this feature if you want ops to be able to bypass but player will require permissions to bypass) #
+  Force Teleportation: true
+  # How long should the player have to wait in between page refreshs? (In Seconds) #
+  # (This is to keep players from spamming the refresh button in menus.) #
+  Refresh Cooldown: 3
+  # How long should the player have to wait in between viewing more warps on a page? (In Seconds) #
+  # (This is to keep players from spamming the view more button in menus.) #
+  View More Cooldown: 3
+  # How long should the player have to wait in between warps? (In Seconds) #
+  Warp Cooldown: 15
+  # How long should the player have to wait before actually teleporting? (In Seconds) #
+  Warp Delay: 5
+  # Should moving interrupt the player's teleportation? #
+  Warp Movment Cancel: true
+  # How many warps should a player be able to own by default? #
+  Default Max Warps: 2
+  Group Warping:
+    # Should group warping be allowed? #
+    Use Group Warping: true
+    # What action should be performed to edit a warp? #
+    # Actions: [SHIFT_CLICK, LEFT_CLICK, RIGHT_CLICK] #
+    Action: 'RIGHT_CLICK'
+    # How should the action's format look in the lore? #
+    Action Format: '&a[%action% To Group Warp]'
+    # When the owner invites a player to a group how long should the request time be in seocnds? #
+    Request Time: 15
+  Titles:
+    # How should the delay title look? #
+    Delay:
+      # Should the delay message be a title or a basic chat message? #
+      # (True = Title/False = Chat Message) #
+      Use Title: true
+      # What should the main title look like? #
+      # (You may use the placeholder %time% in both the title and subtitle) #
+      Title: '&eTeleport Commencing In...'
+      # What should the subtitle look like? #
+      # (You may use the placeholder %time% in both the title and subtitle) #
+      SubTitle: '&a%time% &eSeconds (Do Not Move)'
+      # How long should the fade in be in seconds? #
+      FadeIn: 1
+      # How long should the display time in be in seconds? #
+      Display Time: 3
+      # How long should the fade out be in seconds? #
+      FadeOut: 1
+    # How should the warp title look? #
+    Warp:
+      # Should the warp message be a title or a basic chat message? #
+      # (True = Title/False = Chat Message) #
+      Use Title: true
+      # What should the main title look like? #
+      # (You may use the placeholder %time% in both the title and subtitle) #
+      Title: '&eYou have been teleported'
+      # What should the subtitle look like? #
+      # (You may use the placeholder %time% in both the title and subtitle) #
+      SubTitle: '&eto the &a%warp% &eWarp'
+      # How long should the fade in be in seconds? #
+      FadeIn: 1
+      # How long should the display time in be in seconds? #
+      Display Time: 3
+      # How long should the fade out be in seconds? #
+      FadeOut: 1
+    # How should the cooldown title look? #
+    Cooldown:
+      # Should the cooldown message be a title or a basic chat message? #
+      # (True = Title/False = Chat Message) #
+      Use Title: true
+      # What should the main title look like? #
+      # (You may use the placeholder %time% in both the title and subtitle) #
+      Title: '&cYou may not teleport'
+      # What should the subtitle look like? #
+      # (You may use the placeholder %time% in both the title and subtitle) #
+      SubTitle: '&cfor another &e%timeleft% &cSeconds'
+      # How long should the fade in be in seconds? #
+      FadeIn: 1
+      # How long should the display time in be in seconds? #
+      Display Time: 3
+      # How long should the fade out be in seconds? #
+      FadeOut: 1
+  Icons:
+    # Should menu warp icons contain line borders in the lore? #
+    Use Lines: true
+    # How should the lines look? #
+    Line: '*-------------------------------------------*'
+    # What color should these lines be? #
+    Line Colors: '&e&m'
+    # How should the action error format look? #
+    # (This is used when a action can't be found in the config) #
+    Action Error: '&c[Invalid Action]'
+    # What should be the default status of a my warp (Warp created through the menu) when its created? #
+    # Current Statuses: [Public, Private, Server] #
+    Default My Warp Status: 'Private'
+    # How many characters can a warp name contain? (Don't go above 32, I recommend staying below 20) #
+    Name Max Length: 15
+    # What should the default name color be of each warp icon? #
+    Default Name Color: '&6'
+    # What should the default description color be of each warp icon? #
+    Default Description Color: '&7'
+    # What should the default description be of each warp icon? #
+    Default Description: 'You can change this description in the edit warps menu!'
+    # Would you like the warp icons to be given the enchanted effect automatically on creation? #
+    Default Enchanted: false
+    # What should the default id be of each warp icon? #
+    Default Id: 2
+    # What should the default durability be of each warp icon? #
+    Default Durability: 0
+    # What should the default amount be of each warp icon? #
+    Default Amount: 1
+    # Should HyperDrive show the warp's coorinates in the lore? #
+    Show Coords: true
+    # Should HyperDrive show the warp's owners in the lore? #
+    Show Owners: true
+    # Should HyperDrive show the warp's creation date in the lore? #
+    Show Creation Date: true
+    # What color should the warp's coorinates option be? #
+    Coords Option Color: '&e'
+    # What color should the warp's coorinates value be? #
+    Coords Value Color: '&6'
+    # How should the owners format look in the lore? #
+    Owners Format: '&7Owners: %owners%'
+    # What color should the warp's creation date be? #
+    Creation Date Color: '&a'
+    # How should the price format look in the lore? #
+    Price Format: '&7Price: &a$%amount%'
+    # If the player has purchased this for his warp's icon this will be displayed. #
+    Enchanted Status Active: '&7Status: &aACTIVE'
+    # If the player has not purchased this for his warp's icon this will be displayed. #
+    Enchanted Status InActive: '&7Status: &cINACTIVE'
+    # What action should be performed to edit a warp? #
+    # Actions: [SHIFT_CLICK, LEFT_CLICK, RIGHT_CLICK] #
+    Edit Action: 'SHIFT_CLICK'
+    # How should the action's format look in the lore? #
+    Edit Action Format: '&a[%action% To Edit]'
+    # What action should be performed to cancel a warp in the warp shop? #
+    # Actions: [SHIFT_CLICK, LEFT_CLICK, RIGHT_CLICK] #
+    Cancel Action: 'RIGHT_CLICK'
+    # How should the action's format look in the lore? #
+    Cancel Action Format: '&a[%action% To Cancel]'
+    # What status should the warp return to after being cancelled or purchased from the warp shop? #
+    Cancel Revert Status: 'Public'
+    # What action should be performed to buy a warp from the warp shop? #
+    # Actions: [SHIFT_CLICK, LEFT_CLICK, RIGHT_CLICK] #
+    Buy Action: 'LEFT_CLICK'
+    # How should the action's format look in the lore? #
+    Buy Action Format: '&a[%action% To Buy]'
+    Admin:
+      # What action should be performed to edit a warp as a admin? (requires permission) #
+      # Actions: [SHIFT_CLICK, LEFT_CLICK, RIGHT_CLICK] #
+      Edit Action: 'SHIFT_CLICK'
+      # How should the action's format look in the lore? #
+      Edit Action Format: '&c[%action% To Edit]'
+      # What action should be performed to cancel a warp in the warp shop as a admin? (requires permission) #
+      # Actions: [SHIFT_CLICK, LEFT_CLICK, RIGHT_CLICK] #
+      Cancel Action: 'RIGHT_CLICK'
+      # How should the action's format look in the lore? #
+      Cancel Action Format: '&c[%action% To Cancel]'
+  Chat:
+    # What message should be required to be typed by the player in order to cancel a chat interaction? (None Case-Sensitive) #
+    Exit Text: 'Cancel'
+    # What warps should be displayed when a player types /warp,warps,w list? #
+    # (If it is none of these types you will be defaulted to type 0) #
+    # (Remeber admins will see all warp at all times) #
+    # Type 0 = shows only warps the player owns. #
+    # Type 1 = Shows all the warps the player has access to. #
+    # Type 2 = Shows only server warps. #
+    Listing Type: 0
+  Filter:
+    # What should the filtered word be replaced with? #
+    # (This symbol can not be /, \, :, *, ?, ", <, >, or | since this will be in the file name.) #
+    Symbol: '^'
+    # What should be filtered out of a warp name? #
+    Name Filter:
+    - 'fuck'
+    - 'shit'
+    - '!'
+    - '&'
+    - '.'
+    - '?'
+    # What should be filtered out of a warp's description? #
+    Description Filter:
+    - 'fuck'
+    - '&'
+    - 'shit'
+    # What ids should be banned from being used as a warp icon? #
+    Id Filter:
+    - 0
+    - 11
+    - 10
+  Sounds:
+    # Sound after teleporting. #
+    Warp:
+      Enabled: true
+      # What sound should be played? #
+      # (Type /hd sounds in console or in-game to view a list of sounds.) #
+      Sound: 'ENTITY_ENDERMEN_TELEPORT'
+      # These values modify the sound's volume. #
+      Pitch: 1
+      Volume: 1
+    # Sound when clicking in the menus. #
+    Menu:
+      Enabled: true
+      # What sound should be played? #
+      # (Type /hd sounds in console or in-game to view a list of sounds.) #
+      Sound: 'BLOCK_NOTE_PLING'
+      # These values modify the sound's volume. #
+      Pitch: 1
+      volume: 1
+    # Sound when opening the menus. #
+    Menu Open:
+      Enabled: true
+      # What sound should be played? #
+      # (Type /hd sounds in console or in-game to view a list of sounds.) #
+      Sound: 'BLOCK_NOTE_PLING'
+      # These values modify the sound's volume. #
+      Pitch: 1
+      volume: 1
+  Animation:
+    # Animation/Effect while teleport is commencing. #
+    Delay:
+      Enabled: true
+      # What particle animation template would you like to use? #
+      # Type: [0 = Sphere, 1 = Cone, 2 = Helix, 3 = Simple Particle Burst, 4 = Vortex] #
+      Type: 1
+      # What should it's radius be? #
+      Radius: 0.4
+      # How big should the particle radius be? #
+      Particle Radius: 2
+      # It's ratio is basically its base value the lower it is the more compressed the particles are, and the higher it is the more spread out the particles are. #
+      Ratio: 16
+      # How many particles should be displayed per tick? #
+      Amount: 1
+      # How long should this animation last in seconds? #
+      Duration: 5
+      # What should this animation's height be? #
+      # (Only works with type 2) #
+      Height: 2
+      # What Particle would you like this animation to be made up of? #
+      # (Type /hd particles in console or in-game to view a list of particles.) #
+      Particle: 'CLOUD'
+    # Animation/Effect after teleporting. #
+    Warp:
+      Enabled: true
+      # What particle animation template would you like to use? #
+      # Type: [0 = Sphere, 1 = Cone, 2 = Helix, 3 = Simple Particle Burst, 4 = Vortex] #
+      Type: 0
+      # What should it's radius be? #
+      Radius: 1.5
+      # How big should the particle radius be? #
+      Particle Radius: 5
+      # It's ratio is basically its base value the lower it is the more compressed the particles are, and the higher it is the more spread out the particles are. #
+      Ratio: 12
+      # How many particles should be displayed per tick? #
+      Amount: 1
+      # How long should this animation last in seconds? #
+      Duration: 0.5
+      # What should this animation's height be? #
+      # (Only works with type 2) #
+      Height: 2
+      # What Particle would you like this animation to be made up of? #
+      # (Type /hd particles in console or in-game to view a list of particles.) #
+      Particle: 'WITCH_MAGIC'
+    # Animation/Effect while teleport is commencing for a group warp. #
+    Group Warp Delay:
+      Enabled: true
+      # What particle animation template would you like to use? #
+      # Type: [0 = Sphere, 1 = Cone, 2 = Helix, 3 = Simple Particle Burst, 4 = Vortex] #
+      Type: 4
+      # What should it's radius be? #
+      Radius: 5
+      # How big should the particle radius be? #
+      Particle Radius: 2
+      # It's ratio is basically its base value the lower it is the more compressed the particles are, and the higher it is the more spread out the particles are. #
+      Ratio: 16
+      # How many particles should be displayed per tick? #
+      Amount: 1
+      # How long should this animation last in seconds? #
+      Duration: 5
+      # What should this animation's height be? #
+      # (Only works with type 2) #
+      Height: 2
+      # What Particle would you like this animation to be made up of? #
+      # (Type /hd particles in console or in-game to view a list of particles.) #
+      Particle: 'CLOUD'
+    # Animation/Effect after a group warp teleport. #
+    Group Warp:
+      Enabled: true
+      # What particle animation template would you like to use? #
+      # Type: [0 = Sphere, 1 = Cone, 2 = Helix, 3 = Simple Particle Burst, 4 = Vortex] #
+      Type: 0
+      # What should it's radius be? #
+      Radius: 3
+      # How big should the particle radius be? #
+      Particle Radius: 5
+      # It's ratio is basically its base value the lower it is the more compressed the particles are, and the higher it is the more spread out the particles are. #
+      Ratio: 12
+      # How many particles should be displayed per tick? #
+      Amount: 1
+      # How long should this animation last in seconds? #
+      Duration: 0.5
+      # What should this animation's height be? #
+      # (Only works with type 2) #
+      Height: 2
+      # What Particle would you like this animation to be made up of? #
+      # (Type /hd particles in console or in-game to view a list of particles.) #
+      Particle: 'WITCH_MAGIC'
+  Prices:
+    Use Economy: true
+    # These are all of your prices for each action that a player can do. #
+    Max Sell Price: 1000000
+    Min Sell Price: 0
+    Sell Fee: 50
+    Create Warp: 150
+    Delete Warp: 100
+    Change Name: 80
+    Change Id: 50
+    Enchanted Price: 200
+    Change Description: 100
+    Change Description Color: 50
+    Change Name Color: 50
+    Change Amount: 35
+    Change Status: 100
+    Add Owner: 150
+    Remove Owner: 150
+    Give Ownership: 200

@@ -1,0 +1,43 @@
+# ---------------------- #
+# ----- HyperDrive ----- #
+# ---------------------- #
+
+Factions:
+  # Should HyperDrive hook into Factions? #
+  # (WARNING: This is not UUID Factions only default Factions) #
+  # (RERQUIRES MASSIVECORE) #
+  Enable Hook: false
+  Options:
+    # Should the player not be aloud to create a warp in a faction claim? #
+    Block Warp In Claim: true
+    # Should players be able to teleport inside of a faction claim? #
+    Allow Teleportation: true
+    # Players will be able to create warps in the faction's claims listed below. #
+    # (If Block Warp In Claim is enabled) #
+    # (This acts for allowing teleportation as well) #
+    BlackListed Factions:
+    - 'example_faction1'
+    # Players will be NOT be able to create warps in the faction's claims listed below. #
+    # (If Block Warp In Claim is disabled) #
+    # (This acts for allowing teleportation as well) #
+    Prevented Factions:
+    - 'example_faction2'
+WorldGuard:
+  # Should HyperDrive hook into WorldGuard? #
+  # (RERQUIRES WORLDEDIT) #
+  Enable Hook: false
+  Options:
+    # Should the player not be aloud to create a warp in a worldguard region? #
+    Block Warp In Regions: true
+    # Should players be able to teleport inside of a region? #
+    Allow Teleportation: true
+    # Players will be able to create warps in the worldguard regions listed below. #
+    # (If Block Warp In Regions is enabled) #
+    # (This acts for allowing teleportation as well) #
+    BlackListed Regions:
+    - 'example_region1'
+    # Players will be NOT be able to create warps in the worldguard regions listed below. #
+    # (If Block Warp In Regions is disabled) #
+    # (This acts for allowing teleportation as well) #
+    Prevented Regions:
+    - 'example_region2'

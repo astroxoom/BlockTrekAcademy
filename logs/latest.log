@@ -1,0 +1,344 @@
+[15:17:43] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[15:17:43] [Server thread/INFO]: Loading properties
+[15:17:43] [Server thread/INFO]: Default game type: SURVIVAL
+[15:17:44] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3fb9445-6e3cec8 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[15:17:44] [Server thread/INFO]: Debug logging is disabled
+[15:17:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:17:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:17:44] [Server thread/INFO]: Generating keypair
+[15:17:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:17:45] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:17:45] [Server thread/ERROR]: ebean.properties not found
+[15:17:45] [Server thread/INFO]: DataSourcePool [LoginSecurity] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
+[15:17:45] [Server thread/WARN]: Mon May 22 15:17:45 CST 2017 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[15:17:46] [Server thread/WARN]: Mon May 22 15:17:46 CST 2017 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[15:17:46] [Server thread/INFO]: DatabasePlatform name:LoginSecurity platform:mysql
+[15:17:46] [Server thread/INFO]: SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
+[15:17:46] [Server thread/INFO]: Entities enhanced[0] subclassed[5]
+[15:17:50] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.5;4651611
+[15:17:50] [Server thread/INFO]: [MinePacks] Loading MinePacks v1.16.7
+[15:17:50] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v2.1.6
+[15:17:50] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.3
+[15:17:50] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.3
+[15:17:50] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.7
+[15:17:50] [Server thread/INFO]: [ConsoleSpamFix] Loading ConsoleSpamFix v1.3.0
+[15:17:50] [Server thread/INFO]: [GtzDoors] Loading GtzDoors v1.1.0
+[15:17:50] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
+[15:17:50] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[15:17:50] [Server thread/INFO]: [ChopTree3] Loading ChopTree3 v4.0.0
+[15:17:50] [Server thread/INFO]: [MVdWPlaceholderAPI] Loading MVdWPlaceholderAPI v1.0.0
+[15:17:50] [Server thread/INFO]: [iConomy] Loading iConomy v7.0.6
+[15:17:50] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[15:17:50] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[15:17:50] [Server thread/INFO]: [FeatherBoard] Loading FeatherBoard v3.18.1
+[15:17:50] [Server thread/INFO]: [KeepChunks] Loading KeepChunks v1.3.4
+[15:17:50] [Server thread/INFO]: [SB-Skylands] Loading SB-Skylands v1.10
+[15:17:50] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.0.4
+[15:17:50] [Server thread/INFO]: [ViaVersion] ViaVersion 1.0.4 is now loaded, waiting for boot. (late-bind)
+[15:17:50] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[15:17:50] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.10.0
+[15:17:50] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[15:17:50] [Server thread/INFO]: [WirelessRedstone] Loading WirelessRedstone v3.0.4
+[15:17:50] [Server thread/INFO]: [Movecraft] Loading Movecraft v5.5.0
+[15:17:50] [Server thread/INFO]: [Holograms] Loading Holograms v2.4.1-SNAPSHOT
+[15:17:50] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.2.1
+[15:17:50] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.15.1-RC-sMD5NET-b1084
+[15:17:50] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[15:17:50] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[15:17:50] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.11.2
+[15:17:50] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.21-SNAPSHOT (build 1444)
+[15:17:50] [Server thread/INFO]: [Factions] Loading Factions v2.10.0
+[15:17:50] [Server thread/INFO]: [BossShopPro] Loading BossShopPro v1.5.0
+[15:17:50] [Server thread/INFO]: [ProtectionLib] Loading ProtectionLib v0.9.2-DEV
+[15:17:50] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.4.7
+[15:17:50] [Server thread/INFO]: [HyperDrive] Loading HyperDrive v3.4.6.1_SNAPSHOT
+[15:17:50] [Server thread/INFO]: [CitizensCMD] Loading CitizensCMD v1.0.5
+[15:17:50] [Server thread/INFO]: [FurnitureLib] Loading FurnitureLib v1.9.2.3
+[15:17:50] [Server thread/INFO]: [DiceFurniture] Loading DiceFurniture v3.2.0.8
+[15:17:50] [Server thread/INFO]: [ConsoleSpamFix] Enabling ConsoleSpamFix v1.3.0
+[15:17:50] [Server thread/INFO]: [ConsoleSpamFix] Loading the config file...
+[15:17:50] [Server thread/INFO]: [ConsoleSpamFix] Config file loaded!
+[15:17:50] [Server thread/INFO]: [ConsoleSpamFix] ConsoleSpamFix loaded successfully!
+[15:17:50] [Server thread/INFO]: [SB-Skylands] Enabling SB-Skylands v1.10
+[15:17:50] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[15:17:50] [Server thread/WARN]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[15:17:50] [Server thread/WARN]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[15:17:50] [Server thread/WARN]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[15:17:50] [Server thread/INFO]: [Vault] [Economy] iConomy 6 found: Waiting
+[15:17:50] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:17:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:17:50] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:17:50] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[15:17:50] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.10.0
+[15:17:50] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:17:50] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[15:17:50] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[15:17:50] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[15:17:50] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m22[0;33;1mms.[m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsBasics[0;33;1m set to [0;35;1mMinecraft 1.7.10+ [1_7_R4+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsBoard[0;33;1m set to [0;35;1mMinecraft 1.9.0+ [1_9_R1+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsChat[0;33;1m set to [0;35;1mMinecraft 1.8.3+ [1_8_R2+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsEntityDamageEvent[0;33;1m set to [0;35;1mMinecraft 1.7.10+ [1_7_R4+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsEntityGet[0;33;1m set to [0;35;1mMinecraft 1.8.0+ [1_8_R1+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsItemStackCreate[0;33;1m set to [0;35;1mMinecraft 1.7.10+ [1_7_R4+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsItemStackTooltip[0;33;1m set to [0;35;1mMinecraft 1.8.0+ [1_8_R1+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsPermissions[0;33;1m set to [0;35;1mMinecraft 1.7.10+ [1_7_R4+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsPlayerInventoryCreate[0;33;1m set to [0;35;1mMinecraft 1.7.10+ [1_7_R4+][m
+[15:17:51] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mNmsSkullMeta[0;33;1m set to [0;35;1mMinecraft 1.8.0+ [1_8_R1+][m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationVault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinEvent[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinActionbar[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinActual[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinCommand[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinDisplayName[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinGamemode[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinInventory[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinKick[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinLog[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinMassiveCraftPremium[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinMessage[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinModification[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinPlayed[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinSenderPs[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinTeleport[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinTitle[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinVisibility[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m[0;33;1mMixin [0;35;1mMixinWorld[0;33;1m set to [0;35;1mDefault[m
+[15:17:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.10.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m1300ms[0;33;1m) ===[m
+[15:17:52] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.2.1
+[15:17:52] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:17:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:17:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:17:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:17:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:17:52] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:17:52] [Server thread/INFO]: Preparing level "Optimize"
+[15:17:52] [Server thread/INFO]: -------- World Settings For [Optimize] --------
+[15:17:52] [Server thread/INFO]: Item Merge Radius: 3.5
+[15:17:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:17:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:17:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:17:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:17:52] [Server thread/INFO]: View Distance: 4
+[15:17:52] [Server thread/INFO]: Experience Merge Radius: 6.0
+[15:17:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:17:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:17:52] [Server thread/INFO]: Entity Activation Range: An 4 / Mo 14 / Mi 2
+[15:17:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:17:52] [Server thread/INFO]: Hopper Transfer: 24 Hopper Check: 24 Hopper Amount: 3
+[15:17:52] [Server thread/INFO]: Structure Info Saving: true
+[15:17:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:17:52] [Server thread/INFO]: Random Lighting Updates: false
+[15:17:52] [Server thread/INFO]: Max TNT Explosions: 100
+[15:17:52] [Server thread/INFO]: Mob Spawn Range: 2
+[15:17:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:17:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: -178018896438052502)
+[15:17:53] [Server thread/INFO]: Preparing spawn area: 10%
+[15:17:54] [Server thread/INFO]: Preparing spawn area: 84%
+[15:17:54] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.5;4651611
+[15:17:55] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:17:55] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_11_R1 as the Bukkit adapter
+[15:17:55] [Server thread/INFO]: [MinePacks] Enabling MinePacks v1.16.7
+[15:17:55] [Server thread/INFO]: Minepacks-Connection-Pool - is starting.
+[15:17:55] [Server thread/INFO]: [MinePacks] Checking for updates ...
+[15:17:55] [Server thread/INFO]: [MinePacks] MinePacks has been enabled!
+[15:17:55] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v2.1.6
+[15:17:55] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[15:17:55] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[15:17:55] [Server thread/INFO]: [LoginSecurity] Connection to database....
+[15:17:55] [Server thread/INFO]: DataSourcePool [LoginSecurityDB] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
+[15:17:55] [Server thread/INFO]: SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
+[15:17:55] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerLocation but not supported by DB Platform - ignored
+[15:17:55] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerInventory but not supported by DB Platform - ignored
+[15:17:55] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerProfile but not supported by DB Platform - ignored
+[15:17:55] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.ActionEntry but not supported by DB Platform - ignored
+[15:17:55] [Server thread/INFO]: Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.Migration but not supported by DB Platform - ignored
+[15:17:55] [Server thread/INFO]: Entities enhanced[0] subclassed[5]
+[15:17:55] [Server thread/INFO]: [LoginSecurity] Checking database version...
+[15:17:55] [Server thread/INFO]: [LoginSecurity] Applied 0 missing database upgrades.
+[15:17:55] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[15:17:55] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[15:17:56] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.3
+[15:17:56] [Server thread/INFO]: [ClearLag] Loading modules...
+[15:17:56] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[15:17:56] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[15:17:56] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[15:17:56] [Thread-46/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.11]...
+[15:17:56] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.3
+[15:17:56] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.7
+[15:17:56] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[15:17:56] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[15:17:56] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 160.0 Y: 64.0 Z: 244.0
+[15:17:56] [Server thread/INFO]: [GtzDoors] Enabling GtzDoors v1.1.0
+[15:17:56] [Server thread/INFO]: [GtzDoors] v1.1.0 has been enabled.
+[15:17:56] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
+[15:17:56] [Server thread/INFO]: [Multiverse-Core] 1 - World(s) loaded.
+[15:17:56] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[15:17:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[15:17:56] [Server thread/INFO]: [WorldGuard] (Optimize) TNT ignition is PERMITTED.
+[15:17:56] [Server thread/INFO]: [WorldGuard] (Optimize) Lighters are PERMITTED.
+[15:17:56] [Server thread/INFO]: [WorldGuard] (Optimize) Lava fire is blocked.
+[15:17:56] [Server thread/INFO]: [WorldGuard] (Optimize) Fire spread is UNRESTRICTED.
+[15:17:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Optimize'
+[15:17:56] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:17:57] [Thread-46/INFO]: [ClearLag] No updates found!
+[15:17:57] [Server thread/INFO]: [ChopTree3] Enabling ChopTree3 v4.0.0
+[15:17:57] [Server thread/INFO]: [MVdWPlaceholderAPI] Enabling MVdWPlaceholderAPI v1.0.0
+[15:17:57] [Server thread/INFO]: [MVdWPlaceholderAPI] Initializing ...
+[15:17:57] [Server thread/INFO]: [iConomy] Enabling iConomy v7.0.6
+[15:17:57] [Server thread/INFO]: [iConomy - April Fools] Enabled (21 ms)
+[15:17:57] [Server thread/INFO]: [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[15:17:57] [Server thread/INFO]: [Vault][Economy] iConomy 7 hooked.
+[15:17:57] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[15:17:57] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:17:57] [Thread-48/INFO]: [iConomy - April Fools] Purged accounts with default balance.
+[15:17:57] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:17:57] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:17:57] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:17:57] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Enabling FeatherBoard v3.18.1
+[15:17:57] [Server thread/INFO]: [FeatherBoard] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Plugin: FeatherBoard v3.18.1
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Framework version: 2017-04
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Author: Maximvdw (Maxim Van de Wynckel)
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Site: https://www.mvdw-software.com/
+[15:17:57] [Server thread/INFO]: [FeatherBoard] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Loading configuration ...
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Loading messages ...
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Loading language file: lang_en
+[15:17:57] [Server thread/INFO]: [FeatherBoard] Loading placeholders ...
+[15:18:01] [Server thread/INFO]: [MVdWPlaceholderAPI] Using FeatherBoard to get placeholders!
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loaded 2245 of the 4981 placholders
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading Event hooks ...
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Death hook ...
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block break hook ...
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block place hook ...
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Create portal hook ...
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player join ...
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player rejoin ...
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player first join ...
+[15:18:02] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Combat hook ...
+[15:18:03] [Server thread/INFO]: [FeatherBoard] Creating new custom effect: warning
+[15:18:03] [Server thread/INFO]: [FeatherBoard] 	Lines: 2
+[15:18:03] [Server thread/INFO]: [FeatherBoard] 	Arguments: 1
+[15:18:03] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'default' ...
+[15:18:04] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'combat-scoreboard-example' ...
+[15:18:04] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'mcmmo-levelup' ...
+[15:18:04] [Server thread/INFO]: [FeatherBoard] Adding scoreboard group 'towny-town-example' ...
+[15:18:05] [Server thread/INFO]: [0;35;22m[[0;34;1mFeatherBoard[0;35;22m] [0;32;1mYour version is up to date![m
+[15:18:05] [Server thread/INFO]: [FeatherBoard] Toggle persistence is disabled!
+[15:18:05] [Server thread/INFO]: [FeatherBoard] Adding command 'featherboard'
+[15:18:05] [Server thread/INFO]: [0;31;1m[FeatherBoard] Cracked by t0r@InfiniteLeaks[m
+[15:18:05] [Server thread/INFO]: [KeepChunks] Enabling KeepChunks v1.3.4
+[15:18:05] [Server thread/INFO]: [m
+[15:18:05] [Server thread/INFO]: [0;32;22m _     _                   [0;30;1m_______ _                 _          [m
+[15:18:05] [Server thread/INFO]: [0;32;22m(_)   | |                 [0;30;1m(_______) |               | |  [0;32;22mv1.3.4[m
+[15:18:05] [Server thread/INFO]: [0;32;22m _____| |_____ _____ ____  [0;30;1m_      | |__  _   _ ____ | |  _  ___ [m
+[15:18:05] [Server thread/INFO]: [0;32;22m|  _   _) ___ | ___ |  _ \[0;30;1m| |     |  _ \| | | |  _ \| |_/ )/___)[m
+[15:18:05] [Server thread/INFO]: [0;32;22m| |  \ \| ____| ____| |_| [0;30;1m| |_____| | | | |_| | | | |  _ (|___ |[m
+[15:18:05] [Server thread/INFO]: [0;32;22m|_|   \_)_____)_____)  __/ [0;30;1m\______)_| |_|____/|_| |_|_| \_|___/ [m
+[15:18:05] [Server thread/INFO]: [0;32;22m                    |_|                                         [m
+[15:18:05] [Server thread/INFO]: [m
+[15:18:05] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.0.4
+[15:18:05] [Server thread/INFO]: [WirelessRedstone] Enabling WirelessRedstone v3.0.4
+[15:18:05] [Server thread/INFO]: [0;31;1m[WirelessRedstone][m Plugin is now loaded[m
+[15:18:05] [Server thread/INFO]: [Movecraft] Enabling Movecraft v5.5.0
+[15:18:05] [Server thread/INFO]: [Movecraft] Recognized PilotTool setting of: 280
+[15:18:05] [Server thread/INFO]: [Movecraft] WARNING: CompatibilityMode was set to false, but required build-specific classes were not found. FORCING COMPATIBILITY MODE
+[15:18:05] [Server thread/INFO]: [Movecraft] CompatiblityMode is set to true
+[15:18:05] [Server thread/INFO]: [Movecraft] Found a compatible version of WorldGuard. Enabling WorldGuard integration
+[15:18:05] [Server thread/INFO]: [Movecraft] Settings: WorldGuardBlockMoveOnBuildPerm - true, WorldGuardBlockSinkOnPVPPerm - true
+[15:18:05] [Server thread/INFO]: [Movecraft] Found a compatible version of WorldEdit. Enabling WorldEdit integration
+[15:18:05] [Server thread/INFO]: [Movecraft] Movecraft did not find a compatible version of WGCustomFlags. Disabling WGCustomFlags integration.
+[15:18:05] [Server thread/INFO]: [Movecraft] Movecraft did not find a compatible version of Towny. Disabling Towny integration.
+[15:18:05] [Server thread/INFO]: [Movecraft] Movecraft did not find a compatible version of Essentials. Disabling Essentials integration.
+[15:18:05] [Server thread/INFO]: [Movecraft] Found a compatible Vault plugin.
+[15:18:05] [Server thread/INFO]: [Movecraft] Loaded 10 Craft files
+[15:18:05] [Server thread/INFO]: [Movecraft] [V 5.5.0] has been enabled.
+[15:18:05] [Server thread/INFO]: [Holograms] Enabling Holograms v2.4.1-SNAPSHOT
+[15:18:05] [Server thread/INFO]: [Holograms] HologramEntityController set to: com.sainttx.holograms.nms.v1_11_R1.HologramEntityControllerImpl
+[15:18:05] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.15.1-RC-sMD5NET-b1084
+[15:18:05] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.11-1.11.2 / Spigot-CB-1.11_R1
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.11.2)...
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
+[15:18:06] [Server thread/INFO]: [NoCheatPlus] Version 3.15.1-RC-sMD5NET-b1084 is enabled.
+[15:18:06] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.21-SNAPSHOT (build 1444)
+[15:18:06] [Server thread/INFO]: [Factions] Enabling Factions v2.10.0
+[15:18:06] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.10.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:18:06] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.10.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationWorldGuard[m
+[15:18:06] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.10.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationV19[m
+[15:18:06] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.10.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationSpigot[m
+[15:18:06] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.10.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m215ms[0;33;1m) ===[m
+[15:18:06] [Server thread/INFO]: [BossShopPro] Enabling BossShopPro v1.5.0
+[15:18:07] [Server thread/INFO]: [BossShopPro] Loading data...
+[15:18:07] [Server thread/INFO]: [ProtectionLib] Enabling ProtectionLib v0.9.2-DEV
+[15:18:07] [Server thread/INFO]: [ProtectionLib] Protection lib hook into: WorldGuard 6.1.3-SNAPSHOT;c904242
+[15:18:07] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.4.7
+[15:18:07] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[15:18:07] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[15:18:07] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[15:18:07] [Server thread/WARN]: [ServerListPlus] [Core] Configuration is not enabled, nothing will be changed on the server! Please execute /slp enable to enable the configuration.
+[15:18:07] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[15:18:07] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
+[15:18:07] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.4.7 enabled.
+[15:18:07] [Server thread/INFO]: [HyperDrive] Enabling HyperDrive v3.4.6.1_SNAPSHOT
+[15:18:07] [Server thread/INFO]: [HyperDrive] Loading Configs...
+[15:18:07] [Server thread/INFO]: [HyperDrive] Loading Metrics...
+[15:18:07] [Server thread/INFO]: [HyperDrive] Loading Economy...
+[15:18:07] [Server thread/INFO]: [HyperDrive] Loading Essentials Warp Converter...
+[15:18:07] [Server thread/INFO]: [HyperDrive] Trying to convert all old Data.yml and Object warps...
+[15:18:07] [Server thread/INFO]: [HyperDrive] Regrouping online players...
+[15:18:07] [Server thread/INFO]: [HyperDrive] Loading warps...
+[15:18:07] [Server thread/INFO]: [HyperDrive] Setting up timers...
+[15:18:07] [Server thread/INFO]: [CitizensCMD] Enabling CitizensCMD v1.0.5
+[15:18:08] [Server thread/INFO]: [FurnitureLib] Enabling FurnitureLib v1.9.2.3
+[15:18:10] [Server thread/INFO]: ==========================================[m
+[15:18:10] [Server thread/INFO]: FurnitureLibary Version: [0;33;1m1.9.2.3[m
+[15:18:10] [Server thread/INFO]: Furniture Autor: [0;33;22mSte3et_C0st[m
+[15:18:10] [Server thread/INFO]: Furniture Website: [0;33;1mhttp://dicecraft.de[m
+[15:18:10] [Server thread/INFO]: Furniture start load[m
+[15:18:10] [Server thread/INFO]: Furniture find ProtectionLib: [0;33;1mtrue[m
+[15:18:10] [Server thread/INFO]: New Database will be generated
+[15:18:10] [Server thread/INFO]: [FurnitureLib] FurnitureLib load 0 Objects from: SQLite Database
+[15:18:10] [Server thread/INFO]: [FurnitureLib] FurnitureLib have loadet 0 in 00:00.001
+[15:18:10] [Server thread/INFO]: [FurnitureLib] FurnitureLib have purged 0 Objects
+[15:18:10] [Server thread/INFO]: If you want to install more models look at here: http://dicecraft.de/furniture/models.php[m
+[15:18:10] [Server thread/INFO]: [0;32;22mFurniture load finish :)[m
+[15:18:10] [Server thread/INFO]: ==========================================[m
+[15:18:10] [Server thread/INFO]: [DiceFurniture] Enabling DiceFurniture v3.2.0.8
+[15:18:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:18:13] [Server thread/INFO]: Done (20.986s)! For help, type "help" or "?"
+[15:18:13] [Server thread/INFO]: Using default channel type
+[15:18:13] [Server thread/INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
+[15:18:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.11.1(316)
+[15:18:13] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version, please read our resource page carefully.
+[15:18:13] [Craft Scheduler Thread - 219/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[15:18:14] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[15:18:14] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[15:18:14] [Craft Scheduler Thread - 4/INFO]: [PlugMan] No update was found.
+[15:18:14] [Server thread/INFO]: [HyperDrive] Looks like everything is up to date!
+[15:18:14] [Server thread/WARN]: [Holograms] holograms.yml file had no 'holograms' section defined, no holograms loaded
+[15:18:14] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[15:18:14] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
+[15:18:15] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
+[15:18:15] [Craft Scheduler Thread - 45/INFO]: [BossShopPro] Loaded 10 Shops!
+[15:18:15] [Craft Scheduler Thread - 45/INFO]: [BossShopPro] Vault found.

@@ -1,0 +1,604 @@
+# ---------------------- #
+# ----- HyperDrive ----- #
+# ---------------------- #
+
+# -------------------------------------------------------------------------------------------------------------------------------- #
+# Again this configuration file is very self-explanatory if you believe this config needs comments please feel free to tell me so. #
+# -------------------------------------------------------------------------------------------------------------------------------- #
+
+# Change this if you want a different menu to be used as default. #
+# (If you only want to use this menu and nothing else go down to the menus items and turn "Use This Item" off for the "Main Menu" item) #
+# Current Menus: [Warp Menu, Public Warps Menu, Private Warps Menu, Server Warps Menu, Warp Shop Menu] #
+Main Menu: 'Warp Menu'
+
+Warp Menu:
+  Title: '&c&lWarp Menu'
+  Size: 45
+  Use Background Items: true
+  Send Open Message: true
+  Open Message: '&eYou have opened the &6Warp Menu&e!'
+  Items:
+    Background Items:
+      Name: '&a'
+      Lore: []
+      Id: 160
+      Durability: 15
+      Amount: 1
+    Public Warps:
+      Use This Item: true
+      Name: '&a&l&nPublic Warps'
+      Lore:
+      - ''
+      - '&7Opens the public warps menu where players'
+      - '&7can view and teleport to other player warps'
+      - '&7that are in the public stage!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 2
+      Durability: 0
+      Amount: 1
+      Slot: 11
+    My Warps:
+      Use This Item: true
+      Name: '&c&l&nMy Warps'
+      Lore:
+      - ''
+      - '&7Opens the my warps menu where players'
+      - '&7can view their currently owned warps'
+      - '&7allowing the to have full control over'
+      - '&7how their warp looks or works!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 54
+      Durability: 0
+      Amount: 1
+      Slot: 13
+    Warp Shop:
+      Use This Item: true
+      Name: '&e&l&nWarp Shop'
+      Lore:
+      - ''
+      - '&7Opens the my warp shop menu where players'
+      - '&7can sell their warps ro buy other player'
+      - '&7warps!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 266
+      Durability: 0
+      Amount: 1
+      Slot: 15
+    Server Warps:
+      Use This Item: true
+      Name: '&d&l&nServer Warps'
+      Lore:
+      - ''
+      - '&7Opens the server warps menu where players'
+      - '&7can view and teleport to server warps!'
+      - '&7Server warps are like Admin warps from a'
+      - '&7previous version of HyperDrive but they'
+      - '&7allow the admins to set warps that allow'
+      - '&7players to go to such as a sign shop or mob'
+      - '&7grinder! (This works kinda like Essentials Warps)'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 355
+      Durability: 0
+      Amount: 1
+      Slot: 31
+    Private Warps:
+      Use This Item: true
+      Name: '&c&l&nPrivate Warps'
+      Lore:
+      - ''
+      - '&7Opens the private warps menu where admins'
+      - '&7can view and teleport to other player warps'
+      - '&7that are in the private stage!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 166
+      Durability: 0
+      Amount: 1
+      Slot: 29
+
+Public Warps Menu:
+  Title: '&a&lPublic Warps'
+  Size: 54
+  Use Background Items: true
+  Send Open Message: true
+  # Would you like warps to be laoded in alphabetical order? (Numbers & Symbols will be loaded first) #
+  Alphabetical Order: true
+  Open Message: '&eYou have opened the &aPublic Warps Menu&e!'
+  Items:
+    Background Items:
+      Name: '&a'
+      Lore: []
+      Id: 160
+      Durability: 15
+      Amount: 1
+    Refresh:
+      Use This Item: true
+      Name: '&e&l&nRefresh Page'
+      Lore:
+      - ''
+      - '&7Refreshs the page loading in all of'
+      - '&7the updated public warps!'
+      - ''
+      - '&a&l[Click To Refresh]'
+      Id: 262
+      Durability: 0
+      Amount: 1
+      Slot: 51
+    Warp Menu:
+      Use This Item: true
+      Name: '&c&l&nWarp Menu'
+      Lore:
+      - ''
+      - '&7Returns you to the warp'
+      - '&7menu!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 347
+      Durability: 0
+      Amount: 1
+      Slot: 52
+    View More:
+      Use This Item: true
+      Name: '&a&l&nView More'
+      Lore:
+      - ''
+      - '&7Retrieves more warps that'
+      - '&7are currently not shown!'
+      - '&7(Kinda like seperate pages)'
+      - ''
+      - '&a&l[Click To View]'
+      Id: 340
+      Durability: 0
+      Amount: 1
+      Slot: 53
+
+My Warps Menu:
+  Title: '&c&lMy Warps'
+  Size: 54
+  Use Background Items: true
+  Send Open Message: true
+  # Would you like warps to be laoded in alphabetical order? (Numbers & Symbols will be loaded first) #
+  Alphabetical Order: true
+  Open Message: '&eYou have opened the &cMy Warps Menu&e!'
+  Items:
+    Background Items:
+      Name: '&a'
+      Lore: []
+      Id: 160
+      Durability: 15
+      Amount: 1
+    Create Warp:
+      Use This Item: true
+      Name: '&b&l&nCreate Warp'
+      Lore:
+      - ''
+      - '&7Creates your very own'
+      - '&7warp for &a$150&7!'
+      - ''
+      - '&a&l[Click To Create]'
+      Id: 339
+      Durability: 0
+      Amount: 1
+      Slot: 50
+    Warp Menu:
+      Use This Item: true
+      Name: '&c&l&nWarp Menu'
+      Lore:
+      - ''
+      - '&7Returns you to the warp'
+      - '&7menu!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 347
+      Durability: 0
+      Amount: 1
+      Slot: 51
+    Refresh:
+      Use This Item: true
+      Name: '&e&l&nRefresh Page'
+      Lore:
+      - ''
+      - '&7Refreshs the page loading in all of'
+      - '&7your updated warps!'
+      - ''
+      - '&a&l[Click To Refresh]'
+      Id: 262
+      Durability: 0
+      Amount: 1
+      Slot: 52
+    View More:
+      Use This Item: true
+      Name: '&a&l&nView More'
+      Lore:
+      - ''
+      - '&7Retrieves more warps that'
+      - '&7are currently not shown!'
+      - '&7(Kinda like seperate pages)'
+      - ''
+      - '&a&l[Click To View]'
+      Id: 340
+      Durability: 0
+      Amount: 1
+      Slot: 53
+
+Edit Menu:
+  # Warp name is automatically added behind the title. #
+  Title: '&c&lEditing: &e&l'
+  Size: 45
+  Use Background Items: true
+  Send Open Message: true
+  Open Message: '&eYou have began to edit the warp &a%warp%&e!'
+  Items:
+    Background Items:
+      Name: '&a'
+      Lore: []
+      Id: 160
+      Durability: 15
+      Amount: 1
+    Change Name:
+      Use This Item: true
+      Name: '&e&l&nChange Name'
+      Lore:
+      - ''
+      - '&7Changes the name of the'
+      - '&7selected warp for &a$80&7!'
+      - ''
+      - '&a&l[Click To Change]'
+      Id: 421
+      Durability: 0
+      Amount: 1
+      Slot: 11
+    Change Id:
+      Use This Item: true
+      Name: '&e&l&nChange Icon Id'
+      Lore:
+      - ''
+      - '&7Changes the material of'
+      - '&7the icon of your warp for'
+      - '&a$50&7!'
+      - ''
+      - '&a&l[Click To Change]'
+      Id: 2
+      Durability: 0
+      Amount: 1
+      Slot: 12
+    Enchanted:
+      Use This Item: true
+      Name: '&e&l&nEnchanted Look'
+      # You cane use the placeholder %status% to tell the player wether it is active or not. #
+      Lore:
+      - ''
+      - '&7Gives your warp the enchanted'
+      - '&7apperance for &A$200&7!'
+      - '&7This is togglable, meaning if'
+      - '&7you purchase this again while'
+      - '&7active your enchanted apperance'
+      - '&7will be removed for the same price!'
+      - ''
+      - '%status%'
+      - ''
+      - '&a&l[Click To Toggle]'
+      Id: 403
+      Durability: 0
+      Amount: 1
+      Slot: 13
+    Change Description:
+      Use This Item: true
+      Name: '&e&l&nChange Description'
+      Lore:
+      - ''
+      - '&7Changes the description of'
+      - '&7your warp for &a$100&7!'
+      - ''
+      - '&a&l[Click To Change]'
+      Id: 387
+      Durability: 0
+      Amount: 1
+      Slot: 14
+    Change Amount:
+      Use This Item: true
+      Name: '&e&l&nChange Icon Amount'
+      Lore:
+      - ''
+      - '&7Changes the stack size of'
+      - '&7your icon for &a$35&7!'
+      - ''
+      - '&a&l[Click To Change]'
+      Id: 262
+      Durability: 0
+      Amount: 12
+      Slot: 15
+    Change Description Color:
+      Use This Item: true
+      Name: '&e&l&nChange Description Color'
+      Lore:
+      - ''
+      - '&7Changes the color of your'
+      - '&7description for &a$50&7!'
+      - ''
+      - '&a&l[Click To Change]'
+      Id: 351
+      Durability: 13
+      Amount: 1
+      Slot: 20
+    Change Name Color:
+      Use This Item: true
+      Name: '&e&l&nChange Name Color'
+      Lore:
+      - ''
+      - '&7Changes the color of your'
+      - '&7warp name for &a$50&7!'
+      - ''
+      - '&a&l[Click To Change]'
+      Id: 351
+      Durability: 10
+      Amount: 1
+      Slot: 21
+    Change Status:
+      Use This Item: true
+      Name: '&e&l&nChange Warp Status'
+      Lore:
+      - ''
+      - '&7Changes the status of your'
+      - '&7warp for &a$100&7!'
+      - ''
+      - '&a&l[Click To Change]'
+      Id: 323
+      Durability: 0
+      Amount: 1
+      Slot: 22
+    Add Owner:
+      Use This Item: true
+      Name: '&a&l&nAdd A Owner'
+      Lore:
+      - ''
+      - '&7Adds a owner to your'
+      - '&7warp allowing them to'
+      - '&7control it aswell for'
+      - '&a$150&7!'
+      - ''
+      - '&a&l[Click To Add]'
+      Id: 133
+      Durability: 0
+      Amount: 1
+      Slot: 23
+    Remove Owner:
+      Use This Item: true
+      Name: '&c&l&nRemove A Owner'
+      Lore:
+      - ''
+      - '&7Removes a owner from your'
+      - '&7warp removing their control'
+      - '&7over it entirly for &a$150&7!'
+      - ''
+      - '&a&l[Click To Remove]'
+      Id: 152
+      Durability: 0
+      Amount: 1
+      Slot: 24
+    Give Ownership:
+      Use This Item: true
+      Name: '&e&l&nGive Ownership'
+      Lore:
+      - ''
+      - '&7Gives a player full ownership over'
+      - '&7your warp making it their warp for'
+      - '&a$200&7!'
+      - ''
+      - '&a&l[Click To Give]'
+      Id: 57
+      Durability: 0
+      Amount: 1
+      Slot: 29
+    Delete Warp:
+      Use This Item: true
+      Name: '&c&l&nDelete Warp'
+      Lore:
+      - ''
+      - '&7Deletes the warp from your'
+      - '&7account for &a$100&7!'
+      - ''
+      - '&a&l[Click To Delete]'
+      Id: 166
+      Durability: 0
+      Amount: 1
+      Slot: 30
+    Warp Menu:
+      Use This Item: true
+      Name: '&c&l&nWarp Menu'
+      Lore:
+      - ''
+      - '&7Returns you to the warp'
+      - '&7menu!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 347
+      Durability: 0
+      Amount: 1
+      Slot: 31
+
+Warp Shop Menu:
+  # Warp name is automatically added behind the title. #
+  Title: '&6&lWarp Shop'
+  Size: 54
+  Use Background Items: true
+  Send Open Message: true
+  # Would you like warps to be laoded in alphabetical order? (Numbers & Symbols will be loaded first) #
+  Alphabetical Order: true
+  Open Message: '&eYou have opened the &6Warp Shop&e!'
+  Items:
+    Background Items:
+      Name: '&a'
+      Lore: []
+      Id: 160
+      Durability: 15
+      Amount: 1
+    Sell Warp:
+      Use This Item: true
+      Name: '&a&l&nSell Warp'
+      Lore:
+      - ''
+      - '&7Sell a warp on'
+      - '&7the market!'
+      - ''
+      - '&a&l[Click To Sell]'
+      Id: 339
+      Durability: 0
+      Amount: 1
+      Slot: 50
+    Refresh:
+      Use This Item: true
+      Name: '&e&l&nRefresh Page'
+      Lore:
+      - ''
+      - '&7Refreshs the page loading in all of'
+      - '&7the updated market warps!'
+      - ''
+      - '&a&l[Click To Refresh]'
+      Id: 262
+      Durability: 0
+      Amount: 1
+      Slot: 51
+    Warp Menu:
+      Use This Item: true
+      Name: '&c&l&nWarp Menu'
+      Lore:
+      - ''
+      - '&7Returns you to the warp'
+      - '&7menu!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 347
+      Durability: 0
+      Amount: 1
+      Slot: 52
+    View More:
+      Use This Item: true
+      Name: '&a&l&nView More'
+      Lore:
+      - ''
+      - '&7Retrieves more warps that'
+      - '&7are currently not shown!'
+      - '&7(Kinda like seperate pages)'
+      - ''
+      - '&a&l[Click To View]'
+      Id: 340
+      Durability: 0
+      Amount: 1
+      Slot: 53
+
+Server Warps Menu:
+  Title: '&d&lServer Warps'
+  Size: 54
+  Use Background Items: true
+  Send Open Message: true
+  # Would you like warps to be laoded in alphabetical order? (Numbers & Symbols will be loaded first) #
+  Alphabetical Order: true
+  Open Message: '&eYou have opened the &dServer Warps Menu&e!'
+  Items:
+    Background Items:
+      Name: '&a'
+      Lore: []
+      Id: 160
+      Durability: 15
+      Amount: 1
+    Warp Menu:
+      Use This Item: true
+      Name: '&c&l&nWarp Menu'
+      Lore:
+      - ''
+      - '&7Returns you to the warp'
+      - '&7menu!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 347
+      Durability: 0
+      Amount: 1
+      Slot: 52
+    View More:
+      Use This Item: true
+      Name: '&a&l&nView More'
+      Lore:
+      - ''
+      - '&7Retrieves more warps that'
+      - '&7are currently not shown!'
+      - '&7(Kinda like seperate pages)'
+      - ''
+      - '&a&l[Click To View]'
+      Id: 340
+      Durability: 0
+      Amount: 1
+      Slot: 53
+    Refresh:
+      Use This Item: true
+      Name: '&e&l&nRefresh Page'
+      Lore:
+      - ''
+      - '&7Refreshs the page loading in all of'
+      - '&7the updated public warps!'
+      - ''
+      - '&a&l[Click To Refresh]'
+      Id: 262
+      Durability: 0
+      Amount: 1
+      Slot: 51
+
+Private Warps Menu:
+  Title: '&c&lPrivate Warps'
+  Size: 54
+  Use Background Items: true
+  Send Open Message: true
+  # Would you like warps to be laoded in alphabetical order? (Numbers & Symbols will be loaded first) #
+  Alphabetical Order: true
+  Open Message: '&eYou have opened the &cPrivate Warps Menu&e!'
+  Items:
+    Background Items:
+      Name: '&a'
+      Lore: []
+      Id: 160
+      Durability: 15
+      Amount: 1
+    Warp Menu:
+      Use This Item: true
+      Name: '&c&l&nWarp Menu'
+      Lore:
+      - ''
+      - '&7Returns you to the warp'
+      - '&7menu!'
+      - ''
+      - '&a&l[Click To Open]'
+      Id: 347
+      Durability: 0
+      Amount: 1
+      Slot: 52
+    View More:
+      Use This Item: true
+      Name: '&a&l&nView More'
+      Lore:
+      - ''
+      - '&7Retrieves more warps that'
+      - '&7are currently not shown!'
+      - '&7(Kinda like seperate pages)'
+      - ''
+      - '&a&l[Click To View]'
+      Id: 340
+      Durability: 0
+      Amount: 1
+      Slot: 53
+    Refresh:
+      Use This Item: true
+      Name: '&e&l&nRefresh Page'
+      Lore:
+      - ''
+      - '&7Refreshs the page loading in all of'
+      - '&7the updated private warps!'
+      - ''
+      - '&a&l[Click To Refresh]'
+      Id: 262
+      Durability: 0
+      Amount: 1
+      Slot: 51

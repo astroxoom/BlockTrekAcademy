@@ -1,0 +1,179 @@
+# --------------------- #
+# ------ Options ------ #
+# --------------------- #
+# Would you like hyperdrive to display a chat color list for your players when they need to type a color code? #
+Display Chat Color List: true
+# Should it tell a player when they bypassed the teleportation delay? #
+Teleport Delay Bypass Message: true
+# Should it tell a player when they bypassed the teleportation cooldown? #
+Teleport Cooldown Bypass Message: true
+# Should it tell a player when they bypassed a economy transaction through hyperdrive? #
+Money Bypass Message: true
+
+
+
+# --------------------- #
+# ------ General ------ #
+# --------------------- #
+Prefix: '&0[&dHyper&5Drive&0] '
+Help Menu:
+  Header: '&5<----[ &dHyperDrive &5]---->'
+  Footer: '&5<-------------------->'
+  Option Color: '&d'
+  Description Color: '&e'
+Warp List Format: '&eWarps: &6%list%'
+Color List: '&aColor Codes: &e%list%'
+Reload: '&aAll configs have been successfully reloaded!'
+Particles: '&eParticles: &6%list%'
+Sounds: '&eSounds: &6%list%'
+Player Not Found: '&cThe player could not be found.'
+No Permission: '&cYou do not have permission to use this.'
+Animation Error: '&4Error: &cAn error has occured with a animation please check your configuration file.'
+Sound Error: '&cAn error has occured with a sound please check your configuration file.'
+Purchase Failed: '&cYou do not have enough money to do that.'
+Purchase Success: '&eYour transaction was accepted and &a$%amount% &ewas removed from your account.'
+Purchase Bypass: '&eYou have bypassed the transaction payment.'
+Interaction Instructions: '&eYou can cancel this interaction by typing &a%action%&e.'
+Warp For Sale: '&eThe warp &6%warp% &eis now up for sale for the cost of &a$%amount%&e.'
+
+
+
+# --------------------- #
+# ------ Warping ------ #
+# --------------------- #
+Creation Fail: '&cYou may not create a warp here.'
+Teleport Fail: '&cFailed to teleport.'
+Cooldown: '&cYou can not use this for another &e%timeleft% &cseconds.'
+Already Teleporting: '&cYou can not do that right now for you are already teleporting to &e%warp% &cwarp.'
+Warp: '&eYou have been teleported to the warp &a%warp%&e.'
+Delay: '&eTeleporting commencing in &6%delay% &eseconds...'
+Warp UnAvailable: '&cThe warp &e%warp% &cis currently unavailable to you.'
+Teleport Error: '&4Error: &cRan into a issue while trying to teleport you.'
+Warp Not Owned: '&cYou do not own the warp &e%warp%&c.'
+Server Warp No Access: '&cYou may not use the Server Warp &e%warp% &cbecause you do not have permission.'
+Warp Move Cancelled: '&cTeleportation has been cancelled.'
+Player In Teleport All: '&a%player% &eteleported all players to him/her and you were one of them.'
+Teleport All: '&eAll players were teleported to you... accept the ones with the permission hd.bypasstpall'
+
+
+
+# -------------------------------- #
+# ------ Warp Creation/Edit ------ #
+# -------------------------------- #
+Current Statuses: '&cYou entered a invalid status. &eCurrent Statuses: &6[Public, Private, Server, Shop]'
+Warp Creation: '&aThe warp &e%warp% &awas created.'
+Warp Delete: '&aThe warp &e%warp% &awas deleted.'
+Warp Exists: '&cThe warp &e%warp% &calready exists.'
+Warp Not Found: '&cThe warp &e%warp% &cdoes not exist.'
+Warp Status Set: '&aThe warp &e%warp% &astatus was set to &e%status%&a.'
+Creation: '&ePlease type the name you wish to name your warp:'
+Finish Interact: '&cYou may not reopen the warp menu until you complete the chat interaction.'
+Chat Cancel: '&eYou have cancelled the chat interaction.'
+Exceeded Max Warps: '&cYou have reached the maximum amount of warp that you can own at once.'
+Change Name: '&ePlease enter the new name you would like your warp to be called:'
+Changed Name: '&eThe warp &a%from% &ehas been changed to &a%to% &esuccessfully.'
+Change Id: '&ePlease enter the new material id you would like your warp icon to take form as:'
+Changed Id: '&eThe warp icon material has been changed to &a%id%&e.'
+Invalid Id: '&cThat id is invalid.'
+Enchanted: '&eThe warp &a%warp% &eenchanted look has been set to &d%status%&e.'
+Change Amount: '&ePlease enter the new material amount you would like your warp icon to display as:'
+Changed Amount: '&eThe warp icon amount has been changed to &a%amount%&e.'
+Invalid Amount: '&cThat amount is invalid.'
+Change Description: '&ePlease enter the new icon description you would like your warp icon to display:'
+Changed Description: '&eThe warp icon description has been changed to &a%description%&e.'
+Change Status: '&ePlease enter the new warp status you would like your warp to have (Current Statuses: [Public, Private]):'
+Changed Status: '&eThe warp status has been changed to &a%status%&e.'
+Invalid Status: '&cThat status is invalid. Current Statuses: [Public, Private, Server]'
+Change Description Color: '&ePlease enter the new icon description color you would like your warp icon to display:'
+Changed Description Color: '&eThe warp icon description color has been changed.'
+Invalid Description Color: '&cThat color is invalid.'
+Change Name Color: '&ePlease enter the new icon name color you would like your warp icon to display:'
+Changed Name Color: '&eThe warp icon name color has been changed.'
+Invalid Name Color: '&cThat color is invalid.'
+Warp Deleted: '&eThe warp &a%warp% &ehas been successfully deleted.'
+Id Blocked: '&cThe id &e%id% &ccdan not be used here.'
+Warp Status Same: '&cThe warp status you have entered is currently already set to that warp.'
+Cancel Shop Warp: '&aThe warp &e%warp% &ahas been successfully cancelled.'
+Warp Sell: '&ePlease type the name of the warp you would like to sell (The warp must be owned by you):'
+Warp Sell Price: '&ePlease type the price you would like to sell your warp for:'
+Invalid Price: '&cThe price you entered is either to big, to small, or may not be a number.'
+Add Owner: '&ePlease enter the name of the player you would like to add:'
+Remove Owner: '&ePlease enter the name of the player you would like to remove:'
+Give Ownership: '&ePlease enter the name of the player you would like to give ownership to:'
+Added Owner: '&eYou have added &a%player% &eto your warp &a%warp%&e.'
+Receiver Added Owner: '&eYou have been added as a owner for the warp &a%warp%&e.'
+Removed Owner: '&eYou have removed &a%player% &efrom your warp &a%warp%&e.'
+Receiver Removed Owner: '&eYou have been removed as a owner from the warp &a%warp%&e.'
+Given Ownership: '&eYou gave &a%player% &eyour warp &a%warp%&e.'
+Receiver Given Owner: '&eYou have been given ownership of the warp &a%warp%&e.'
+Admin Added Owner: '&eThe player &a%player% &ehas been added to the warp &a%warp%&e.'
+Admin Removed Owner: '&eThe player &a%player% &ehas been removed from the warp &a%warp%&e.'
+Admin gave Ownership: '&eThe player &a%player% &ehas been given ownership of the warp &a%warp%&e.'
+Already Main Owner: '&cThat player is already the main owner of that warp.'
+Already A Owner: '&cThat player is already a owner of that warp.'
+Failed Main Owner Removal: '&cThat player is the main owner you may not remove them from the owners.'
+Not A Owner: '&cThat player is not a owner of that warp.'
+Not A Server Warp: '&cThe warp &e%warp% &cmust be a server warp in order to recieve a specific permission node.'
+Server Warp Permission Set: '&eThe warp &a%warp% &enow has the permission node &a%permission%&e.'
+Permission Get: '&eThe permission for the warp &a%warp% &eis &a%permission%&e.' 
+Teleport Cooldown Bypass: '&eYou have bypassed the teleport cooldown.'
+Teleport Delay Bypass: '&eYou have bypassed the teleport delay.'
+Warp Already Purchased: '&eThe warp &a%warp% &ehas already been either purchased or cancelled.'
+Purchased Warp: '&eYou have purchased the warp &a%warp%&e.'
+Warp Owner Purchased: '&eThe player &a%player% &ehas purchased your warp &a%warp% &eand you recieved &a$%amount%&e!'
+Refund Invalid Status: '&cYou were refunded &a$%amount% &csince that status does not exist.'
+Invalid Status: '&cYou have entered an invalid status.'
+Exceeded Name Char Length: '&cYou have exceeded the character limit for a warp name. (Max &e%max%&c)'
+Command Enabled: '&eYou enabled command mode for the warp &a%warp% &e(the command the warp contains will be ran on teleport now).'
+Command Disabled: '&eYou disabled command mode for the warp &a%warp% &e(the command the warp contains will NOT be ran on teleport now).'
+Command Set: '&eThe command for the warp &a%warp% &ehas been set to &a%command%&e.'
+Set Command: '&eEnter the command you wish to set this warp command to (Do not include a / for this is already provided): '
+Set Command Fail: '&cThe command you entered contains a /... Please make sure your command does not contain a / (since this is already provided).'
+Set Sending Type: '&eYou set the command sender for the warp &a%warp% &eto &a%type%&e.'
+Set Sending Type Fail: '&cThe sending type for the warp command must be either &ePLAYER &cor &eCONSOLE&c.'
+Get Command: '&eThe command for the warp &a%warp% &eis &a%command%&e.'
+
+
+# ---------------------- #
+# ------ Grouping ------ #
+# ---------------------- #
+Kick All From Group: '&eYou kicked everyone from your group.'
+Empty Group: '&cYour group is empty or you are not in a group.'
+Request Sent: '&eThe player &a%player% &ehas been invited to your group.'
+Request Received: '&eYou have been invited to &a%player%s &egroup.'
+Kicked From Group: '&cThe player &a%player% &chas been kicked from your group.'
+Kicked From The Group: '&cYou have been kicked from &a%player%s &cgroup.'
+Can Not Kick All In Group: '&cYou can not kick all players from the group since you are not the group owner or you do not own a group.'
+Already In Group: '&cThe player &e%player% &cis already in your group.'
+Player In A Group: '&cYou do not own the group.'
+Player In Group: '&cThe player &e%player% &cis already in a group.'
+Not In Group: '&cThe player &e%player% &cis not in your group.'
+Already Requested: '&cYou may not send &e%player% &ca group request, because they have already been invited to another group.'
+Request Already Sent: '&cYou have already requested a player to join your group please wait until the time expires, if they do not accept or deny the request, or if they accept or deny the request.'
+Request Expired: '&cYour group request to the player &e%player% &chas expired.'
+Request Expired Player: '&cYour group request from &e%player% &chas expired.'
+Request Accept: '&a%player% &ehas accepted your group request.'
+Request Accepted: '&eYou have accepted &a%player%s &egroup request.'
+Request Deny: '&e%player% &chas denied your group request.'
+Request Denied: '&eYou have denied &a%player%s &egroup request.'
+Request Sent: '&eYou have invited &a%player% &eto your group.'
+No Requests: '&cYou do not have any group requests.'
+Request Received: '&eYou have received a group invite from &a%player%&e. Type (/warps group accept) to accept or (/warps group deny) to deny the invitation.'
+Request Yourself: '&cYou may not send a invite to yourself.'
+Kick Yourself: '&cYou may not kick yourself from you own group.'
+Not In A Group: '&cYou are not in a group or are the owner of the group.'
+Left Group: '&eYou have left the &a%player%s &egroup.'
+Left Your Group: '&a%player% &ehas left your group.'
+Group List: '&6Group List: &e%list%'
+Receiver Ownership: '&eYou have been given ownership of the warp &a%warp%&e.'
+Request Not Found: '&cThe player &e%requester% &cdid not send you a request.'
+
+
+
+# -------------------------- #
+# ------ Menu Related ------ #
+# -------------------------- #
+Refresh: '&eThe menu/page has been refreshed.'
+View More: '&eLoading More...'
+Refresh Cooldown: '&cYou may not refresh this page for another &e%timeleft% &cseconds.'
+View More Cooldown: '&cYou may not view more for another &e%timeleft% &cseconds.'

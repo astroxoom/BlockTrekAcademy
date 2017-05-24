@@ -1,0 +1,6 @@
+# Citizens CMD Plugin by Mateus Moreira aka iPSYKO
+# @iPSYKO_
+# Version 1.0.4
+# 
+# Enables Checking for update.
+CheckUpdates: true
